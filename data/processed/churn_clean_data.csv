@@ -1,0 +1,1410 @@
+gender,seniorcitizen,partner,dependents,tenure,phoneservice,multiplelines,internetservice,onlinesecurity,onlinebackup,deviceprotection,techsupport,streamingtv,streamingmovies,contract,paperlessbilling,paymentmethod,monthlycharges,totalcharges
+male,no,yes,yes,72,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,credit card,114.05,8468.2
+female,yes,no,no,8,yes,yes,fiber optic,no,no,no,yes,yes,yes,monthly,yes,credit card,100.15,908.55
+female,no,yes,yes,41,yes,yes,dsl,yes,yes,yes,no,yes,no,one year,yes,credit card,78.35,3211.2
+male,no,yes,no,18,yes,no,fiber optic,no,no,yes,yes,no,no,monthly,no,electronic check,78.2,1468.75
+female,no,yes,no,72,yes,yes,dsl,yes,yes,yes,no,yes,yes,two year,yes,credit card,82.65,5919.35
+female,no,no,no,21,yes,yes,fiber optic,no,yes,no,no,yes,yes,monthly,yes,credit card,99.85,1992.55
+female,no,no,no,21,yes,no,fiber optic,no,yes,no,yes,yes,yes,monthly,yes,bank transfer,99.15,1956.4
+male,no,no,yes,19,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,credit card,24.1,439.2
+female,no,yes,yes,61,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,19.75,1311.6
+male,yes,no,no,17,yes,no,dsl,no,no,no,no,no,no,monthly,yes,electronic check,45.05,770.6
+male,no,yes,yes,70,yes,yes,fiber optic,yes,yes,no,no,yes,yes,monthly,yes,electronic check,106.05,7554.05
+female,yes,yes,no,72,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,bank transfer,114.85,8317.95
+male,no,no,no,49,no,no phone service,dsl,no,no,yes,no,no,no,monthly,yes,bank transfer,30.2,1453.1
+female,yes,no,no,11,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,credit card,84.8,906.85
+female,no,no,yes,19,yes,no,dsl,no,no,no,yes,no,no,monthly,no,mailed check,48.8,953.65
+male,no,yes,yes,72,yes,yes,fiber optic,no,no,no,no,no,yes,two year,yes,credit card,84.5,6130.85
+female,no,yes,yes,8,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,19.5,159.35
+male,no,no,yes,15,yes,yes,fiber optic,no,yes,no,no,yes,no,monthly,yes,electronic check,91.0,1430.05
+female,no,yes,no,67,yes,yes,fiber optic,no,yes,yes,no,yes,yes,one year,yes,bank transfer,105.7,6816.95
+female,no,yes,no,26,no,no phone service,dsl,yes,no,yes,no,no,no,one year,no,credit card,35.4,978.6
+male,yes,no,no,2,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,mailed check,74.85,156.4
+female,no,yes,no,21,no,no phone service,dsl,yes,no,no,no,no,no,monthly,no,electronic check,28.5,629.35
+female,no,yes,no,49,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,bank transfer,20.05,923.1
+male,no,yes,yes,21,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,19.8,350.1
+female,no,yes,no,51,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,mailed check,69.15,3649.6
+male,yes,yes,no,16,yes,no,dsl,yes,yes,no,no,no,no,monthly,yes,bank transfer,54.55,825.1
+female,no,no,no,22,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,no,electronic check,89.25,1907.85
+male,no,yes,no,13,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,credit card,102.25,1359.0
+female,no,no,yes,43,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,electronic check,25.1,1070.15
+female,no,no,no,3,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,89.45,240.45
+male,yes,no,no,54,yes,yes,fiber optic,no,yes,no,no,no,yes,monthly,yes,electronic check,90.05,4931.8
+male,no,no,yes,1,no,no phone service,dsl,no,no,no,no,no,no,monthly,no,mailed check,24.2,24.2
+male,no,yes,yes,69,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,credit card,20.55,1403.1
+male,no,no,no,62,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,23.4,1429.65
+female,no,no,no,2,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,90.4,168.2
+female,yes,yes,yes,62,yes,yes,fiber optic,no,yes,yes,no,no,yes,monthly,yes,credit card,96.1,6019.35
+male,yes,no,no,2,yes,no,dsl,no,no,no,no,no,no,monthly,no,mailed check,44.95,85.15
+male,no,yes,yes,69,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,19.9,1356.7
+female,no,no,no,1,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,74.5,74.5
+male,no,no,no,31,yes,no,dsl,no,no,yes,yes,no,no,monthly,yes,electronic check,55.25,1715.65
+male,yes,no,no,69,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,20.3,1356.3
+male,no,yes,no,2,yes,yes,fiber optic,no,no,yes,no,yes,no,monthly,yes,electronic check,91.45,171.45
+female,no,no,no,33,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,bank transfer,70.4,2406.1
+female,no,yes,no,3,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,19.6,55.25
+male,no,no,no,44,yes,no,dsl,yes,no,no,yes,yes,no,one year,no,electronic check,65.4,2774.55
+male,no,no,no,10,yes,no,fiber optic,yes,yes,yes,yes,yes,yes,monthly,yes,electronic check,110.1,1043.3
+female,no,no,no,8,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,75.25,576.7
+male,no,no,no,8,yes,no,dsl,no,yes,no,yes,yes,no,monthly,yes,electronic check,66.65,520.95
+female,no,yes,yes,69,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,credit card,20.35,1442.65
+female,no,no,no,23,yes,yes,fiber optic,no,no,no,no,no,no,monthly,no,bank transfer,75.6,1758.6
+male,no,no,no,66,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,25.1,1697.7
+female,no,yes,yes,1,yes,yes,fiber optic,yes,no,yes,no,yes,yes,monthly,yes,electronic check,102.45,102.45
+female,no,no,no,3,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.95,58.0
+female,no,no,yes,5,yes,no,dsl,no,no,no,yes,no,no,monthly,yes,mailed check,51.0,286.8
+female,no,no,yes,1,yes,no,dsl,yes,no,no,no,no,no,monthly,no,mailed check,51.2,51.2
+female,no,no,no,9,yes,no,fiber optic,no,no,no,no,yes,no,monthly,yes,bank transfer,77.65,714.15
+male,no,yes,yes,36,yes,no,dsl,yes,no,yes,no,no,yes,one year,yes,credit card,63.7,2188.5
+male,no,yes,yes,68,yes,yes,fiber optic,yes,yes,no,no,no,no,one year,yes,bank transfer,85.5,5696.6
+female,no,yes,yes,35,no,no phone service,dsl,no,no,no,yes,yes,no,one year,no,mailed check,40.9,1383.6
+male,no,yes,yes,60,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.55,1205.05
+female,no,yes,yes,72,yes,yes,dsl,yes,yes,no,yes,yes,no,two year,no,mailed check,74.55,5430.65
+male,no,no,no,45,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,electronic check,20.4,930.45
+male,no,yes,yes,37,yes,no,fiber optic,no,no,no,no,yes,yes,one year,no,credit card,91.2,3247.55
+female,no,yes,yes,7,yes,no,dsl,yes,no,no,no,no,no,monthly,no,mailed check,50.7,350.35
+female,no,no,no,4,yes,no,dsl,no,yes,no,no,no,no,monthly,no,credit card,50.7,151.3
+female,no,no,no,1,yes,no,dsl,yes,yes,no,no,no,no,monthly,yes,electronic check,54.9,54.9
+female,no,no,no,4,yes,no,dsl,yes,yes,no,yes,no,no,monthly,yes,mailed check,60.4,272.15
+male,no,yes,no,18,yes,no,dsl,no,no,yes,no,no,no,monthly,yes,mailed check,49.55,878.35
+female,no,no,no,12,yes,yes,dsl,no,no,no,yes,yes,yes,one year,no,mailed check,74.05,872.65
+female,no,yes,yes,1,yes,no,fiber optic,no,no,no,no,yes,no,monthly,yes,mailed check,80.05,80.05
+male,no,yes,yes,72,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,25.0,1738.9
+male,no,yes,no,42,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,electronic check,20.25,835.5
+male,yes,no,no,24,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,76.1,1712.7
+male,no,yes,yes,26,yes,no,fiber optic,no,no,no,no,no,yes,one year,no,bank transfer,78.95,2034.25
+female,no,yes,yes,68,yes,yes,dsl,yes,yes,yes,no,yes,no,one year,yes,credit card,73.0,5163.0
+female,no,no,no,17,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,bank transfer,19.9,323.15
+male,no,yes,yes,59,yes,yes,fiber optic,yes,yes,no,yes,yes,yes,two year,yes,mailed check,111.1,6555.2
+male,no,yes,yes,13,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,credit card,74.4,896.75
+female,no,no,no,2,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,20.45,42.45
+female,no,yes,no,67,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.65,1335.2
+female,no,no,no,17,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,credit card,20.05,337.9
+male,no,yes,no,71,yes,yes,dsl,yes,yes,yes,yes,no,yes,two year,yes,mailed check,80.1,5585.4
+female,no,yes,yes,17,yes,no,fiber optic,no,no,yes,yes,yes,yes,one year,no,bank transfer,98.6,1704.95
+male,no,no,no,1,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,89.55,89.55
+female,no,yes,yes,6,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,19.7,94.45
+male,no,yes,no,61,yes,yes,fiber optic,no,yes,yes,yes,yes,yes,monthly,yes,electronic check,114.1,7132.15
+female,no,no,no,6,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,mailed check,73.85,401.3
+female,yes,no,no,1,no,no phone service,dsl,no,no,no,no,no,no,monthly,no,mailed check,25.05,25.05
+female,no,yes,yes,21,yes,no,fiber optic,no,yes,yes,yes,yes,yes,monthly,yes,electronic check,102.8,2110.15
+female,no,yes,no,60,yes,yes,fiber optic,no,yes,yes,yes,yes,yes,two year,yes,credit card,110.8,6640.7
+female,yes,no,no,20,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,credit card,85.8,1727.5
+male,no,yes,no,22,yes,yes,fiber optic,yes,no,no,yes,yes,no,monthly,no,credit card,95.9,2234.95
+female,no,no,no,40,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,bank transfer,20.6,827.3
+male,no,no,no,23,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,74.95,1710.45
+female,no,no,yes,1,yes,no,dsl,no,no,no,no,no,no,monthly,no,mailed check,45.95,45.95
+male,no,no,no,46,no,no phone service,dsl,yes,no,yes,yes,no,no,two year,no,mailed check,38.25,1755.35
+female,no,yes,yes,5,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,credit card,69.95,320.4
+male,yes,no,no,68,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,credit card,20.0,1396.0
+female,yes,no,no,1,no,no phone service,dsl,no,no,no,no,no,no,monthly,yes,electronic check,25.2,25.2
+female,no,yes,no,2,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,bank transfer,20.1,43.15
+female,yes,no,no,14,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,electronic check,104.85,1531.4
+male,no,no,no,10,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,70.0,740.0
+male,no,no,yes,13,yes,no,fiber optic,no,no,no,no,yes,no,monthly,yes,credit card,78.3,1033.95
+female,no,no,no,34,yes,yes,fiber optic,yes,yes,yes,no,yes,yes,monthly,yes,mailed check,109.8,3587.25
+male,no,yes,yes,18,yes,no,dsl,no,no,yes,no,no,yes,monthly,no,electronic check,57.45,990.85
+male,no,yes,yes,71,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,19.7,1301.1
+female,no,yes,no,70,yes,yes,fiber optic,no,yes,yes,yes,yes,yes,two year,yes,electronic check,110.5,7752.05
+female,no,yes,no,52,yes,no,dsl,yes,no,yes,no,yes,no,one year,yes,mailed check,64.3,3410.6
+male,no,yes,yes,68,yes,no,fiber optic,yes,yes,yes,no,yes,yes,two year,yes,bank transfer,105.25,7173.15
+male,no,yes,yes,38,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,electronic check,19.6,717.3
+female,no,yes,yes,58,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,credit card,24.5,1497.9
+male,no,no,no,3,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,no,mailed check,90.7,237.65
+male,no,yes,no,14,yes,no,dsl,no,no,no,yes,no,no,monthly,no,bank transfer,48.8,664.4
+male,no,no,no,2,no,no phone service,dsl,no,no,no,no,no,no,monthly,yes,credit card,24.9,49.7
+female,no,yes,no,1,no,no phone service,dsl,no,no,no,no,no,no,monthly,yes,electronic check,24.8,24.8
+female,yes,no,no,72,yes,yes,fiber optic,yes,yes,yes,yes,no,yes,two year,yes,bank transfer,107.4,7748.75
+male,no,no,no,3,yes,no,dsl,no,no,no,no,no,no,monthly,yes,electronic check,43.3,123.65
+female,no,no,no,13,yes,yes,fiber optic,yes,no,no,no,no,no,monthly,yes,credit card,80.0,1029.35
+male,yes,yes,yes,72,yes,no,fiber optic,yes,no,yes,yes,yes,yes,two year,yes,credit card,104.1,7447.7
+male,no,yes,no,58,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.75,1185.95
+male,yes,yes,no,71,yes,no,fiber optic,no,yes,yes,yes,no,yes,two year,yes,credit card,95.5,6707.15
+female,no,no,no,1,yes,no,fiber optic,no,no,yes,no,no,no,monthly,no,electronic check,76.35,76.35
+female,no,yes,yes,54,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,no,credit card,91.3,4965.0
+male,no,no,yes,39,no,no phone service,dsl,yes,no,no,yes,yes,no,one year,no,bank transfer,45.05,1790.6
+female,no,no,no,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,70.6,70.6
+male,no,yes,no,61,yes,yes,dsl,yes,yes,yes,yes,no,yes,two year,yes,bank transfer,80.8,4860.85
+female,no,yes,yes,25,yes,no,fiber optic,no,yes,yes,no,yes,no,monthly,yes,bank transfer,89.15,2257.75
+female,no,no,no,37,yes,yes,fiber optic,yes,yes,yes,no,no,no,monthly,no,bank transfer,91.2,3382.3
+female,yes,no,no,26,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,91.25,2351.8
+male,no,no,no,10,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,credit card,19.75,208.25
+female,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.4,20.4
+female,yes,yes,no,24,no,no phone service,dsl,no,no,yes,no,no,yes,monthly,yes,credit card,40.65,933.3
+male,yes,no,no,65,yes,yes,fiber optic,yes,no,yes,yes,yes,yes,two year,yes,electronic check,110.35,7246.15
+male,no,no,no,23,yes,no,dsl,no,no,no,no,yes,yes,one year,yes,bank transfer,64.9,1509.8
+male,no,no,no,49,yes,yes,dsl,no,no,no,yes,yes,no,two year,yes,bank transfer,66.15,3199.0
+female,yes,no,no,42,yes,yes,dsl,no,no,yes,no,no,no,monthly,no,electronic check,55.65,2421.75
+female,no,no,no,8,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.85,161.65
+female,no,no,no,28,yes,no,dsl,no,yes,no,yes,no,no,monthly,no,bank transfer,54.65,1517.5
+male,no,no,no,71,yes,yes,dsl,yes,yes,yes,yes,no,yes,two year,no,bank transfer,80.6,5708.2
+male,no,yes,yes,69,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,credit card,99.45,7007.6
+male,no,yes,yes,68,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,bank transfer,114.7,7849.85
+female,no,yes,no,64,yes,yes,fiber optic,no,yes,no,yes,yes,yes,two year,yes,bank transfer,105.4,6794.75
+female,yes,no,no,3,yes,no,fiber optic,no,no,yes,no,no,no,monthly,no,mailed check,75.05,202.9
+female,no,yes,yes,66,yes,no,dsl,no,no,no,yes,no,no,one year,yes,credit card,49.4,3251.85
+male,no,no,no,28,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,credit card,18.25,534.7
+male,no,yes,no,67,yes,no,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,electronic check,111.05,7321.05
+male,no,yes,no,46,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,electronic check,19.6,851.2
+male,no,yes,no,55,yes,yes,fiber optic,yes,yes,no,no,yes,no,monthly,yes,electronic check,96.75,5238.9
+male,no,no,no,22,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,mailed check,69.7,1490.4
+male,no,yes,yes,18,yes,no,fiber optic,yes,no,yes,no,yes,no,monthly,yes,mailed check,87.9,1500.5
+male,no,yes,no,46,no,no phone service,dsl,yes,no,yes,yes,no,no,two year,no,credit card,40.4,1842.7
+female,no,yes,no,10,yes,yes,fiber optic,yes,no,no,no,no,no,monthly,yes,credit card,78.15,765.15
+male,no,yes,no,72,yes,yes,fiber optic,no,yes,no,no,yes,yes,two year,yes,electronic check,99.4,7285.7
+male,no,no,no,16,yes,yes,dsl,no,yes,no,no,no,no,monthly,no,electronic check,55.3,875.35
+male,yes,no,no,3,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,77.0,237.75
+male,no,yes,yes,21,no,no phone service,dsl,no,no,no,no,no,no,monthly,yes,electronic check,26.05,565.75
+male,no,no,no,5,yes,no,fiber optic,no,no,no,no,no,yes,monthly,no,mailed check,78.75,426.35
+female,no,no,no,1,no,no phone service,dsl,no,yes,no,no,no,no,monthly,no,bank transfer,29.95,29.95
+female,no,no,no,1,yes,no,dsl,no,no,no,no,no,no,monthly,yes,mailed check,45.4,45.4
+male,yes,yes,no,36,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,credit card,85.25,3132.75
+male,no,yes,no,64,yes,no,fiber optic,yes,yes,no,yes,yes,yes,two year,yes,credit card,104.05,6605.55
+male,yes,yes,no,30,yes,yes,dsl,no,no,yes,no,yes,yes,two year,no,electronic check,74.85,2181.75
+female,no,yes,yes,72,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,19.55,1463.45
+male,no,yes,yes,46,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,mailed check,20.1,936.85
+female,no,yes,no,45,yes,no,fiber optic,no,no,no,yes,yes,yes,two year,yes,credit card,95.2,4285.8
+female,no,no,no,2,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.65,38.7
+female,no,no,no,34,yes,no,dsl,yes,yes,no,no,no,no,one year,no,mailed check,55.0,1885.15
+female,no,yes,no,54,yes,yes,fiber optic,yes,yes,no,no,yes,yes,one year,no,bank transfer,106.55,5763.3
+male,no,no,no,21,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,19.95,416.4
+male,no,yes,no,65,yes,yes,dsl,yes,no,yes,yes,no,yes,two year,no,bank transfer,76.15,4929.55
+female,no,yes,no,20,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,bank transfer,69.8,1540.35
+male,no,no,no,1,yes,no,fiber optic,no,no,no,no,yes,no,monthly,yes,electronic check,79.5,79.5
+male,no,yes,yes,42,yes,yes,dsl,yes,yes,no,no,yes,no,monthly,yes,bank transfer,69.4,3058.3
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.4,19.4
+female,no,yes,no,20,yes,no,fiber optic,yes,yes,no,yes,yes,no,monthly,yes,electronic check,96.55,1901.65
+male,no,no,no,11,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,electronic check,70.2,760.05
+female,no,yes,no,61,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,25.3,1554.9
+female,no,yes,no,64,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,25.0,1584.8
+female,yes,yes,no,25,yes,no,fiber optic,no,yes,yes,no,no,yes,monthly,no,bank transfer,88.4,2191.15
+female,no,no,no,44,yes,yes,dsl,no,no,no,no,no,no,monthly,yes,mailed check,50.15,2139.1
+female,no,yes,no,5,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,electronic check,69.95,330.15
+female,yes,yes,yes,48,no,no phone service,dsl,no,yes,no,no,no,no,one year,no,bank transfer,29.9,1388.75
+male,no,no,no,6,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,74.9,469.8
+male,no,yes,no,4,yes,no,dsl,no,no,no,yes,no,no,monthly,no,mailed check,50.05,179.35
+male,no,yes,yes,72,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,19.95,1322.85
+male,no,no,no,54,yes,yes,fiber optic,no,no,yes,no,no,yes,monthly,no,credit card,89.4,4869.5
+female,no,yes,yes,66,yes,yes,dsl,yes,yes,yes,no,no,no,monthly,yes,bank transfer,67.45,4508.65
+male,no,no,no,3,yes,no,dsl,no,yes,no,no,no,no,monthly,yes,mailed check,49.9,130.1
+male,no,no,no,19,yes,no,dsl,no,yes,no,yes,no,yes,one year,yes,bank transfer,65.35,1231.85
+male,no,yes,yes,61,yes,yes,dsl,no,no,yes,yes,yes,yes,two year,yes,bank transfer,81.0,4976.15
+male,no,no,no,54,yes,no,fiber optic,yes,no,yes,no,yes,no,monthly,no,mailed check,89.8,4667.0
+female,no,no,no,1,yes,no,dsl,no,yes,no,no,no,no,monthly,no,electronic check,49.95,49.95
+male,yes,no,no,19,yes,yes,fiber optic,no,no,yes,no,no,no,monthly,yes,electronic check,79.85,1471.75
+male,no,yes,no,24,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.75,483.15
+female,yes,no,yes,33,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,bank transfer,105.35,3465.05
+female,no,yes,no,31,yes,no,fiber optic,no,yes,no,no,no,yes,monthly,yes,bank transfer,83.85,2674.15
+male,no,yes,no,59,no,no phone service,dsl,no,no,no,no,yes,yes,monthly,yes,electronic check,44.3,2666.75
+female,yes,yes,no,20,yes,no,fiber optic,no,no,no,no,yes,yes,one year,yes,bank transfer,91.0,1859.5
+male,yes,yes,no,60,yes,yes,fiber optic,no,no,no,yes,yes,yes,monthly,yes,electronic check,99.0,6017.9
+male,no,no,yes,18,yes,yes,fiber optic,no,no,yes,no,no,no,monthly,yes,credit card,80.55,1406.65
+female,no,no,yes,19,yes,no,dsl,yes,yes,yes,no,no,no,monthly,yes,electronic check,60.6,1297.8
+female,no,yes,yes,24,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.7,452.55
+female,no,yes,yes,9,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.25,172.35
+female,no,yes,yes,33,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,bank transfer,24.25,838.5
+female,no,no,no,2,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.4,61.05
+male,no,yes,no,67,yes,yes,fiber optic,no,yes,yes,no,no,yes,two year,yes,electronic check,93.15,6368.2
+female,no,no,no,52,yes,no,dsl,yes,no,no,no,no,no,monthly,yes,bank transfer,49.75,2535.55
+female,no,no,no,5,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,credit card,19.65,92.05
+female,no,yes,yes,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,19.4,19.4
+male,no,no,no,67,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,mailed check,19.8,1311.3
+female,no,no,no,63,yes,yes,fiber optic,no,yes,no,no,yes,yes,one year,no,bank transfer,99.9,6137.0
+male,yes,no,no,2,yes,no,dsl,no,no,yes,no,no,no,monthly,no,mailed check,49.95,107.1
+male,yes,yes,no,25,yes,yes,fiber optic,yes,no,no,no,no,yes,one year,yes,electronic check,89.05,2177.45
+male,no,no,no,19,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,mailed check,19.95,373.5
+male,no,no,yes,62,yes,no,dsl,yes,yes,no,no,no,no,one year,no,bank transfer,56.15,3487.95
+male,yes,no,no,23,no,no phone service,dsl,no,no,no,no,no,yes,monthly,yes,bank transfer,34.65,768.45
+male,no,yes,no,70,yes,no,dsl,yes,yes,yes,yes,no,no,two year,no,credit card,64.95,4523.25
+male,no,no,no,29,yes,no,fiber optic,no,no,no,yes,yes,yes,monthly,yes,electronic check,94.2,2607.6
+male,no,yes,no,32,yes,yes,fiber optic,no,no,yes,no,no,no,monthly,yes,electronic check,78.9,2447.95
+female,no,no,no,31,yes,yes,dsl,yes,no,yes,yes,no,no,monthly,no,credit card,65.25,1994.3
+female,no,no,no,59,yes,no,fiber optic,no,no,yes,no,yes,yes,two year,no,electronic check,95.8,5655.45
+male,no,no,no,32,yes,no,dsl,no,no,no,no,yes,yes,one year,yes,bank transfer,64.85,2010.95
+male,no,yes,no,17,no,no phone service,dsl,no,yes,no,no,yes,yes,monthly,yes,mailed check,49.8,836.35
+male,no,no,no,26,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.9,518.3
+male,no,no,no,12,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,no,electronic check,94.55,1173.55
+male,no,yes,yes,61,yes,no,fiber optic,no,yes,no,yes,yes,yes,one year,yes,bank transfer,98.45,6145.2
+female,no,yes,no,71,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.6,1416.5
+female,no,no,no,9,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,credit card,20.45,147.55
+male,yes,yes,no,24,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,electronic check,104.25,2433.9
+female,yes,no,no,7,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,89.15,574.35
+male,no,no,yes,41,yes,no,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,electronic check,111.15,4507.15
+male,no,yes,yes,20,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,90.2,1776.55
+male,no,yes,no,33,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,no,electronic check,91.25,2964.05
+male,no,no,no,56,yes,no,dsl,no,yes,yes,yes,yes,yes,two year,yes,credit card,81.8,4534.45
+male,no,yes,yes,1,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,74.5,74.5
+male,no,no,no,4,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,76.05,318.9
+female,no,no,no,54,yes,yes,fiber optic,no,yes,yes,yes,yes,yes,monthly,no,electronic check,111.1,6014.85
+female,no,yes,yes,8,yes,no,dsl,no,no,no,yes,yes,yes,monthly,yes,electronic check,68.55,564.35
+male,no,yes,no,58,no,no phone service,dsl,no,no,no,no,yes,yes,one year,yes,credit card,45.0,2689.35
+male,no,yes,no,34,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,no,electronic check,100.85,3527.3
+female,yes,no,no,2,no,no phone service,dsl,no,no,yes,no,no,no,monthly,yes,electronic check,30.4,78.65
+male,no,no,yes,25,yes,no,fiber optic,no,yes,no,no,yes,yes,monthly,yes,electronic check,95.9,2448.75
+female,no,yes,no,68,yes,yes,fiber optic,no,no,yes,no,yes,no,two year,yes,bank transfer,89.95,5974.3
+female,no,yes,no,71,yes,yes,fiber optic,no,yes,yes,no,yes,yes,two year,yes,bank transfer,105.15,7555.0
+female,no,no,yes,1,yes,no,dsl,no,no,yes,no,no,yes,monthly,no,electronic check,59.2,59.2
+male,no,no,no,13,yes,yes,fiber optic,yes,no,no,no,yes,yes,monthly,no,mailed check,98.15,1230.25
+male,no,yes,yes,5,yes,yes,fiber optic,yes,no,yes,no,no,no,monthly,yes,electronic check,84.5,453.75
+female,no,no,no,22,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,bank transfer,20.85,450.65
+female,no,yes,yes,10,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,26.1,225.55
+male,yes,yes,no,55,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,74.0,4052.4
+female,no,yes,yes,27,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,mailed check,20.55,583.3
+female,no,no,no,10,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,18.85,163.2
+male,no,no,no,23,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,electronic check,20.85,473.9
+male,no,yes,yes,70,yes,yes,dsl,no,yes,yes,yes,yes,yes,two year,yes,electronic check,84.1,5979.7
+female,no,no,yes,5,yes,no,dsl,no,no,no,no,no,no,monthly,no,mailed check,46.0,221.7
+female,no,no,no,24,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,bank transfer,19.55,470.2
+female,no,no,no,8,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,bank transfer,20.2,140.95
+male,no,yes,no,19,yes,yes,fiber optic,yes,yes,no,yes,no,no,monthly,yes,credit card,88.8,1672.35
+male,yes,yes,no,43,yes,no,fiber optic,no,yes,yes,no,yes,yes,one year,yes,bank transfer,100.55,4304.0
+male,yes,no,no,67,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,credit card,101.4,6841.05
+male,no,no,no,4,yes,no,dsl,no,no,no,no,no,yes,monthly,yes,mailed check,55.3,238.5
+male,no,yes,no,59,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,no,electronic check,113.75,6561.25
+male,no,yes,no,72,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,25.4,1710.9
+male,no,no,yes,19,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,electronic check,20.0,377.55
+female,no,no,no,1,yes,no,fiber optic,no,no,yes,no,no,no,monthly,no,bank transfer,73.5,73.5
+female,no,yes,yes,30,no,no phone service,dsl,no,no,no,yes,yes,yes,monthly,no,credit card,51.2,1561.5
+female,no,yes,no,2,yes,no,fiber optic,yes,no,no,no,no,no,monthly,yes,electronic check,74.4,139.4
+male,no,yes,yes,60,yes,no,dsl,yes,yes,yes,yes,no,no,one year,yes,bank transfer,65.85,3928.3
+male,no,no,no,44,yes,yes,fiber optic,yes,yes,yes,no,yes,yes,monthly,yes,electronic check,111.5,4915.15
+female,no,no,no,1,yes,no,dsl,no,yes,no,no,no,no,monthly,yes,electronic check,48.6,48.6
+male,no,yes,no,3,no,no phone service,dsl,no,no,no,yes,no,no,monthly,yes,electronic check,29.9,92.25
+male,yes,yes,no,71,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,24.85,1901.0
+female,no,no,no,2,yes,no,dsl,no,yes,no,no,no,no,monthly,no,mailed check,49.2,103.7
+female,no,no,no,1,no,no phone service,dsl,no,no,no,no,no,no,one year,no,mailed check,25.85,25.85
+female,no,yes,yes,72,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,electronic check,115.5,8425.15
+female,no,no,no,6,yes,no,fiber optic,no,yes,no,no,no,yes,monthly,yes,mailed check,85.95,514.6
+female,no,no,no,1,yes,no,fiber optic,no,no,yes,no,yes,no,monthly,yes,credit card,85.55,85.55
+male,yes,no,no,20,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,no,electronic check,89.95,1648.45
+male,no,no,no,1,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,88.35,88.35
+male,no,no,no,12,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,credit card,20.05,265.45
+male,no,no,no,9,no,no phone service,dsl,no,no,no,no,no,no,monthly,yes,electronic check,24.95,190.25
+female,no,no,no,12,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.1,223.6
+female,no,no,no,1,yes,no,dsl,no,no,no,yes,no,no,monthly,yes,electronic check,49.9,49.9
+male,no,no,no,17,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,bank transfer,19.65,351.55
+female,no,no,no,12,yes,yes,fiber optic,no,no,no,yes,no,no,monthly,yes,credit card,79.55,958.25
+male,no,no,no,12,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,electronic check,106.7,1253.9
+female,no,no,no,15,yes,yes,dsl,yes,no,no,no,no,no,monthly,yes,mailed check,55.7,899.8
+male,no,yes,no,71,yes,yes,fiber optic,yes,yes,yes,no,yes,no,two year,yes,electronic check,99.0,6994.6
+female,no,yes,no,30,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,85.0,2624.25
+male,no,no,yes,33,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,mailed check,20.15,682.15
+female,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.9,19.9
+female,no,yes,yes,62,yes,yes,dsl,no,no,no,no,yes,yes,monthly,yes,credit card,70.45,4300.45
+female,no,yes,yes,72,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,credit card,116.8,8456.75
+female,no,yes,yes,30,yes,no,dsl,yes,no,no,yes,no,yes,monthly,no,bank transfer,66.3,1923.5
+female,no,no,yes,3,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,credit card,20.55,57.4
+female,no,yes,yes,28,yes,yes,fiber optic,no,no,no,yes,no,yes,one year,yes,electronic check,90.45,2509.25
+male,no,no,no,30,yes,yes,fiber optic,yes,yes,no,no,no,yes,monthly,yes,credit card,94.3,2679.7
+female,no,yes,yes,12,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.0,233.55
+male,no,no,no,51,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,bank transfer,24.6,1266.4
+female,no,no,no,15,no,no phone service,dsl,yes,yes,yes,yes,no,no,one year,no,mailed check,45.9,693.45
+male,no,yes,yes,72,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,credit card,25.1,1790.8
+male,no,no,no,32,yes,yes,fiber optic,yes,yes,no,yes,yes,yes,monthly,yes,credit card,108.15,3432.9
+female,yes,no,no,6,yes,no,fiber optic,yes,no,no,no,no,no,monthly,yes,electronic check,74.1,450.9
+male,no,yes,no,63,yes,no,dsl,yes,yes,no,yes,yes,no,one year,no,credit card,70.8,4448.8
+female,yes,no,no,11,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,yes,bank transfer,95.15,997.65
+male,no,no,no,19,yes,no,dsl,no,no,no,yes,yes,no,monthly,yes,credit card,61.55,1093.2
+male,no,yes,yes,64,yes,no,dsl,yes,no,yes,no,yes,yes,one year,yes,credit card,73.05,4688.65
+female,no,yes,yes,7,yes,no,dsl,yes,yes,yes,no,yes,no,one year,no,electronic check,69.45,477.05
+female,yes,no,no,4,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.05,91.45
+male,no,no,no,7,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,19.95,147.5
+male,no,no,no,4,yes,no,fiber optic,no,no,yes,yes,no,yes,monthly,yes,electronic check,90.4,356.65
+female,no,no,no,3,yes,no,fiber optic,yes,no,no,no,no,no,monthly,yes,electronic check,74.55,233.65
+female,yes,no,no,65,no,no phone service,dsl,no,yes,yes,no,yes,yes,two year,yes,bank transfer,53.5,3517.9
+male,no,yes,yes,42,yes,no,dsl,yes,no,no,yes,no,yes,one year,no,credit card,63.7,2763.35
+male,no,no,no,26,yes,no,dsl,yes,no,no,yes,yes,yes,one year,no,bank transfer,75.0,1908.35
+female,no,no,no,48,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,credit card,25.05,1171.5
+male,no,yes,yes,69,yes,yes,fiber optic,no,no,no,yes,yes,yes,two year,yes,electronic check,99.35,6856.45
+male,no,yes,yes,17,no,no phone service,dsl,yes,no,yes,no,yes,no,one year,no,credit card,44.45,792.15
+female,no,yes,yes,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,electronic check,21.0,21.0
+female,no,no,no,4,yes,no,fiber optic,no,yes,no,no,no,no,monthly,yes,bank transfer,76.65,333.6
+female,yes,no,no,34,yes,yes,fiber optic,no,yes,no,yes,yes,no,monthly,yes,electronic check,96.35,3190.25
+female,no,no,no,2,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,electronic check,70.35,139.25
+female,no,yes,yes,1,yes,no,dsl,no,no,yes,no,no,no,monthly,no,mailed check,50.45,50.45
+female,no,no,no,12,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.3,246.7
+male,no,no,no,38,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,credit card,69.5,2625.25
+female,no,yes,yes,31,yes,yes,dsl,no,yes,no,yes,yes,yes,two year,no,bank transfer,80.55,2471.6
+female,no,yes,yes,67,yes,yes,fiber optic,yes,no,yes,yes,yes,yes,two year,yes,credit card,108.75,7156.2
+male,no,yes,yes,22,yes,yes,fiber optic,no,no,yes,no,yes,no,monthly,yes,electronic check,88.75,1885.15
+female,no,yes,no,63,yes,yes,fiber optic,no,no,no,yes,no,no,one year,yes,credit card,81.2,4965.1
+female,no,no,no,70,yes,no,dsl,yes,no,yes,yes,yes,yes,two year,no,bank transfer,79.6,5589.45
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.45,20.45
+female,no,yes,yes,49,yes,yes,fiber optic,no,yes,no,no,yes,yes,one year,no,mailed check,100.45,4941.8
+female,yes,yes,no,71,yes,no,fiber optic,no,yes,yes,no,no,yes,two year,no,credit card,89.45,6435.25
+female,no,yes,yes,23,yes,no,dsl,yes,yes,yes,yes,no,no,one year,yes,mailed check,66.25,1533.8
+male,no,yes,yes,72,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,yes,credit card,90.8,6397.6
+female,no,yes,yes,72,yes,yes,dsl,yes,no,yes,no,yes,no,two year,yes,bank transfer,71.45,5025.85
+female,no,no,no,2,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,bank transfer,69.75,144.55
+female,no,no,no,42,yes,no,dsl,yes,yes,yes,no,no,no,monthly,no,bank transfer,59.65,2536.55
+female,no,yes,yes,47,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.75,948.9
+male,no,no,yes,29,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,19.85,535.05
+female,no,yes,yes,72,no,no phone service,dsl,yes,yes,yes,yes,yes,yes,two year,yes,bank transfer,63.8,4684.3
+male,no,no,no,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,69.55,69.55
+male,no,no,no,40,yes,no,dsl,no,no,no,yes,no,no,monthly,yes,electronic check,51.1,2092.9
+male,no,no,no,1,yes,yes,dsl,no,no,yes,yes,no,no,monthly,no,mailed check,62.05,62.05
+female,yes,no,no,1,yes,no,fiber optic,no,no,yes,no,no,yes,monthly,yes,electronic check,85.0,85.0
+male,no,yes,yes,70,yes,yes,fiber optic,no,yes,no,no,yes,yes,two year,no,bank transfer,98.3,6859.5
+male,no,no,no,49,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,credit card,19.9,1022.6
+male,no,no,no,17,yes,no,fiber optic,no,no,yes,no,no,no,monthly,yes,electronic check,76.65,1313.55
+male,no,no,no,33,yes,no,dsl,no,yes,yes,no,yes,no,monthly,yes,credit card,66.4,2245.4
+male,yes,yes,no,17,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,credit card,100.45,1622.45
+male,no,yes,yes,21,yes,yes,dsl,yes,no,no,no,yes,yes,one year,yes,bank transfer,75.9,1549.75
+female,no,no,no,35,yes,yes,dsl,yes,no,yes,yes,yes,yes,one year,yes,credit card,85.95,3110.1
+female,no,no,no,12,no,no phone service,dsl,no,yes,yes,yes,yes,yes,one year,no,electronic check,60.65,743.3
+female,no,yes,no,9,yes,no,dsl,no,yes,no,no,no,no,monthly,no,mailed check,50.85,466.6
+female,no,yes,yes,72,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,24.45,1709.1
+male,yes,yes,no,18,yes,no,dsl,yes,no,no,no,no,yes,monthly,yes,credit card,59.1,1011.05
+female,no,yes,no,58,yes,yes,fiber optic,yes,yes,no,yes,yes,yes,two year,yes,credit card,109.1,6393.65
+female,yes,no,yes,30,yes,yes,fiber optic,no,no,no,yes,yes,yes,monthly,yes,electronic check,101.3,2974.5
+male,no,yes,yes,56,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,no,mailed check,115.85,6567.9
+male,no,no,no,10,yes,no,fiber optic,no,no,yes,no,yes,yes,monthly,yes,electronic check,94.9,1048.85
+female,no,yes,no,2,no,no phone service,dsl,no,no,no,no,no,yes,monthly,yes,electronic check,35.1,68.75
+female,no,yes,yes,18,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,credit card,24.65,471.35
+female,no,yes,yes,51,no,no phone service,dsl,no,no,yes,yes,yes,yes,one year,yes,electronic check,56.15,2898.95
+male,no,yes,no,60,yes,yes,fiber optic,yes,no,yes,yes,yes,yes,monthly,yes,bank transfer,109.45,6572.85
+female,no,yes,yes,24,yes,no,dsl,yes,no,no,yes,no,no,monthly,no,electronic check,55.15,1319.85
+male,no,yes,no,70,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,one year,no,credit card,115.65,7968.85
+male,no,no,no,12,yes,no,dsl,no,yes,no,yes,no,no,monthly,yes,mailed check,53.75,648.65
+male,no,yes,yes,25,yes,no,dsl,yes,yes,yes,no,no,no,one year,yes,bank transfer,61.6,1611.0
+male,no,no,no,36,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,credit card,20.35,695.85
+male,no,yes,yes,11,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,no,electronic check,90.6,1020.2
+male,no,yes,yes,7,yes,no,fiber optic,no,yes,no,yes,yes,no,monthly,yes,electronic check,89.75,608.8
+female,yes,yes,no,26,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,bank transfer,98.1,2510.7
+male,no,no,no,41,yes,no,fiber optic,no,no,no,yes,no,no,monthly,yes,electronic check,74.25,3089.1
+female,yes,no,no,57,no,no phone service,dsl,no,yes,yes,no,yes,yes,monthly,yes,electronic check,55.0,3094.05
+female,no,yes,yes,28,yes,no,fiber optic,no,no,no,no,yes,yes,one year,yes,bank transfer,90.1,2598.95
+female,no,no,no,10,yes,no,dsl,no,yes,no,yes,no,yes,one year,no,mailed check,64.9,685.55
+female,no,no,no,41,yes,yes,dsl,no,yes,no,no,no,no,one year,yes,credit card,56.3,2364.0
+female,no,no,no,22,yes,no,fiber optic,yes,no,no,yes,no,yes,monthly,yes,electronic check,89.05,1886.25
+female,no,no,no,57,yes,yes,fiber optic,yes,yes,yes,no,yes,yes,two year,yes,bank transfer,112.95,6465.0
+male,no,no,no,13,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,19.45,270.2
+female,no,yes,yes,61,yes,yes,fiber optic,yes,yes,yes,no,no,yes,one year,yes,credit card,100.7,6018.65
+female,no,yes,yes,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.05,20.05
+female,no,yes,yes,18,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.35,309.25
+male,no,no,no,6,yes,yes,fiber optic,no,no,no,yes,no,yes,monthly,yes,bank transfer,87.95,522.35
+female,no,no,no,7,yes,no,dsl,no,no,no,yes,yes,no,monthly,yes,mailed check,59.5,415.95
+female,no,yes,yes,9,yes,yes,dsl,no,yes,no,no,no,no,monthly,yes,mailed check,55.3,501.2
+male,yes,yes,yes,1,yes,no,dsl,no,no,no,yes,no,no,monthly,yes,credit card,49.25,49.25
+male,no,no,no,9,yes,no,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,80.8,713.1
+female,no,yes,no,49,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,bank transfer,20.45,900.9
+female,no,no,no,15,yes,no,fiber optic,yes,yes,no,no,yes,yes,monthly,yes,credit card,99.1,1426.4
+female,no,yes,yes,30,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,bank transfer,19.55,608.5
+female,yes,yes,no,70,yes,yes,fiber optic,no,no,no,no,no,no,two year,yes,credit card,75.65,5411.4
+male,no,no,no,25,yes,no,fiber optic,yes,no,yes,yes,yes,yes,monthly,yes,electronic check,105.5,2686.05
+female,no,yes,yes,49,no,no phone service,dsl,yes,no,no,yes,no,no,one year,yes,credit card,35.8,1782.0
+male,no,no,no,18,no,no phone service,dsl,no,no,no,no,no,no,monthly,no,mailed check,25.15,476.8
+female,no,no,no,25,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,credit card,19.2,532.1
+male,no,no,yes,23,no,no phone service,dsl,yes,no,yes,yes,no,no,two year,no,mailed check,40.1,857.75
+male,no,yes,yes,67,yes,no,fiber optic,no,yes,yes,yes,yes,yes,two year,no,bank transfer,103.15,6895.5
+male,no,yes,yes,35,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,20.5,759.35
+male,no,no,no,1,yes,no,dsl,no,no,no,no,no,no,monthly,yes,mailed check,45.85,45.85
+male,no,yes,no,72,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,no,credit card,114.45,8375.05
+female,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,electronic check,20.7,20.7
+male,yes,yes,yes,60,yes,yes,fiber optic,yes,no,no,no,no,no,monthly,yes,electronic check,80.95,4859.1
+female,no,no,no,7,yes,no,dsl,yes,no,no,no,no,yes,one year,yes,electronic check,59.1,369.25
+male,no,no,no,64,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.55,1240.15
+female,no,no,no,15,yes,no,dsl,no,yes,no,no,no,no,monthly,no,electronic check,48.85,736.8
+male,no,yes,yes,2,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,19.85,35.9
+female,no,no,no,13,yes,yes,dsl,yes,no,yes,no,yes,yes,monthly,yes,electronic check,78.75,995.35
+male,no,no,no,26,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,electronic check,98.35,2515.3
+female,no,yes,no,52,no,no phone service,dsl,yes,no,yes,no,no,no,one year,no,mailed check,35.45,1958.95
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,bank transfer,20.2,20.2
+female,yes,no,no,15,yes,yes,fiber optic,no,yes,no,no,no,yes,monthly,no,electronic check,89.85,1424.95
+female,no,no,no,2,yes,yes,fiber optic,no,no,no,no,no,no,monthly,no,credit card,74.9,147.15
+female,no,yes,yes,31,yes,yes,fiber optic,no,yes,no,no,no,yes,monthly,yes,electronic check,91.15,2995.45
+male,no,no,no,26,yes,no,fiber optic,no,yes,no,no,no,no,one year,no,bank transfer,75.5,2018.1
+female,no,no,no,10,no,no phone service,dsl,yes,no,no,no,no,no,monthly,no,mailed check,29.75,301.9
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.05,20.05
+female,yes,no,no,2,yes,no,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,79.6,195.05
+male,no,no,no,2,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,credit card,19.3,28.3
+female,no,yes,no,13,no,no phone service,dsl,no,no,yes,no,yes,yes,monthly,yes,bank transfer,48.75,633.4
+male,no,yes,yes,33,yes,no,dsl,yes,no,yes,no,yes,yes,one year,no,credit card,74.75,2453.3
+female,yes,no,no,46,yes,no,fiber optic,no,yes,yes,no,yes,no,one year,yes,bank transfer,91.3,4126.35
+female,no,no,no,13,no,no phone service,dsl,no,no,yes,no,yes,yes,monthly,no,electronic check,49.15,649.4
+female,yes,no,no,37,yes,yes,fiber optic,yes,yes,no,no,yes,yes,monthly,yes,bank transfer,106.75,4056.75
+female,no,yes,yes,61,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,credit card,19.1,1143.8
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.8,20.8
+female,no,yes,yes,9,yes,no,fiber optic,no,no,no,yes,no,no,monthly,yes,electronic check,75.85,647.5
+male,no,no,no,3,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,mailed check,69.6,207.4
+male,no,yes,no,69,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.9,1363.45
+female,no,yes,yes,62,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,20.3,1296.15
+male,no,no,no,20,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,mailed check,19.7,419.4
+male,no,no,no,61,yes,yes,fiber optic,yes,no,yes,no,yes,yes,one year,no,electronic check,104.0,6363.45
+female,no,no,no,4,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,electronic check,23.9,97.5
+male,no,yes,no,63,yes,yes,fiber optic,no,no,yes,no,yes,yes,two year,no,electronic check,102.6,6296.75
+male,no,no,no,50,no,no phone service,dsl,yes,yes,no,no,no,no,monthly,yes,mailed check,35.0,1782.4
+male,no,no,no,1,yes,no,fiber optic,no,no,no,no,no,yes,monthly,no,electronic check,80.5,80.5
+female,no,yes,yes,70,yes,no,dsl,yes,yes,yes,yes,no,yes,one year,no,credit card,74.1,5222.3
+female,no,yes,yes,72,yes,yes,dsl,no,no,yes,no,yes,yes,two year,yes,bank transfer,76.8,5468.45
+female,no,no,no,35,yes,no,dsl,yes,yes,yes,no,no,no,monthly,no,electronic check,60.55,1982.6
+male,no,no,no,12,yes,yes,dsl,yes,yes,no,yes,no,no,monthly,yes,electronic check,67.25,832.3
+female,no,yes,no,56,yes,yes,fiber optic,yes,yes,yes,no,yes,yes,one year,no,bank transfer,109.8,6109.65
+male,no,no,yes,12,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,credit card,73.75,871.4
+female,no,no,no,36,yes,yes,dsl,no,no,yes,no,no,no,one year,no,electronic check,55.8,1941.5
+female,no,yes,no,40,yes,yes,fiber optic,yes,no,yes,no,yes,yes,one year,no,bank transfer,105.75,4228.55
+female,no,no,no,3,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,19.6,59.75
+female,yes,no,no,40,yes,yes,fiber optic,no,no,yes,yes,yes,yes,one year,yes,credit card,103.75,4188.4
+male,no,yes,no,67,yes,yes,dsl,yes,yes,yes,yes,no,no,two year,no,credit card,70.9,4677.1
+female,no,no,no,67,yes,no,dsl,yes,no,yes,yes,no,yes,one year,yes,bank transfer,72.35,4991.5
+female,no,no,no,7,yes,no,dsl,no,no,no,no,yes,yes,monthly,yes,electronic check,66.85,458.1
+male,no,no,no,3,yes,no,fiber optic,no,yes,yes,no,no,yes,monthly,no,electronic check,90.4,268.45
+male,no,no,no,42,yes,yes,fiber optic,no,no,no,yes,yes,yes,monthly,yes,electronic check,100.3,4222.95
+female,no,yes,yes,40,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,electronic check,26.2,1077.5
+female,yes,yes,no,53,yes,no,fiber optic,no,yes,yes,yes,yes,no,one year,yes,electronic check,94.0,4871.45
+female,no,no,no,3,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,electronic check,19.55,61.05
+female,yes,no,no,9,yes,yes,fiber optic,no,no,yes,no,yes,no,monthly,yes,electronic check,90.1,816.8
+female,no,yes,yes,72,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,credit card,20.1,1326.25
+male,yes,no,no,46,yes,no,fiber optic,yes,no,no,no,no,yes,monthly,no,electronic check,85.0,3969.4
+female,no,yes,yes,61,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,mailed check,24.1,1551.6
+female,no,yes,yes,54,yes,no,dsl,yes,no,yes,yes,no,yes,two year,no,bank transfer,69.95,3871.85
+male,no,no,no,11,no,no phone service,dsl,no,no,yes,no,yes,no,one year,yes,electronic check,41.6,470.6
+female,no,yes,no,29,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,mailed check,19.55,521.8
+male,no,yes,yes,67,yes,yes,fiber optic,yes,yes,yes,no,yes,yes,one year,yes,electronic check,111.3,7482.1
+male,no,yes,yes,49,yes,yes,fiber optic,no,no,no,yes,yes,yes,one year,yes,electronic check,97.95,4917.9
+male,no,yes,no,72,yes,yes,fiber optic,yes,yes,no,yes,no,yes,two year,yes,bank transfer,100.55,7325.1
+female,no,yes,yes,71,yes,no,dsl,yes,yes,yes,yes,yes,yes,two year,no,credit card,87.25,6328.7
+female,yes,no,no,44,yes,no,dsl,no,no,yes,yes,yes,yes,one year,no,bank transfer,74.85,3268.05
+male,no,yes,yes,41,yes,no,dsl,yes,yes,yes,no,no,no,one year,yes,bank transfer,60.3,2511.3
+female,no,no,no,11,yes,yes,dsl,no,no,no,no,no,yes,monthly,yes,mailed check,58.95,601.6
+female,no,no,no,13,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,19.3,279.3
+female,yes,yes,no,55,yes,no,fiber optic,no,no,yes,yes,yes,no,two year,no,credit card,88.8,4805.3
+female,no,no,no,11,yes,no,dsl,yes,no,no,no,no,no,monthly,no,credit card,48.55,501.0
+female,no,no,yes,48,no,no phone service,dsl,no,yes,yes,no,no,yes,monthly,no,credit card,45.55,2108.35
+male,no,no,no,31,yes,yes,fiber optic,no,no,no,yes,no,no,one year,no,credit card,81.7,2548.65
+male,no,no,no,63,yes,no,fiber optic,yes,yes,yes,yes,yes,yes,two year,no,credit card,109.2,7049.75
+female,yes,yes,yes,61,yes,yes,dsl,no,no,yes,no,yes,no,one year,yes,electronic check,65.2,3965.05
+female,no,yes,yes,72,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,24.25,1784.5
+female,no,yes,yes,53,yes,no,fiber optic,no,yes,yes,yes,yes,yes,monthly,yes,bank transfer,108.25,5935.1
+female,yes,no,no,7,yes,no,dsl,yes,no,no,no,no,no,monthly,yes,electronic check,48.2,340.35
+female,no,yes,yes,28,yes,no,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,81.05,2227.1
+female,no,no,no,16,yes,yes,fiber optic,no,no,no,no,no,no,monthly,no,electronic check,72.65,1194.3
+female,no,no,yes,7,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,71.05,472.65
+female,no,no,no,5,yes,yes,dsl,no,yes,no,no,no,yes,monthly,yes,electronic check,64.0,370.25
+female,no,yes,yes,71,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,23.9,1663.5
+male,no,yes,yes,7,no,no phone service,dsl,yes,no,no,yes,no,no,monthly,yes,electronic check,34.5,279.25
+male,yes,no,no,11,yes,yes,fiber optic,no,yes,yes,yes,yes,yes,monthly,yes,electronic check,111.4,1183.05
+male,no,no,no,52,no,no phone service,dsl,yes,yes,yes,yes,yes,yes,two year,no,credit card,63.9,3334.95
+female,no,no,no,49,yes,no,dsl,yes,yes,yes,yes,no,no,two year,no,bank transfer,67.4,3306.85
+male,no,no,no,19,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,18.8,279.2
+male,no,no,no,2,yes,no,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,80.95,171.15
+male,no,yes,no,52,yes,yes,fiber optic,no,yes,no,yes,no,yes,monthly,yes,credit card,95.65,5088.4
+male,no,yes,no,23,yes,yes,fiber optic,no,yes,yes,no,no,no,monthly,no,electronic check,84.25,1968.1
+male,yes,no,no,8,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,69.7,572.85
+female,yes,yes,yes,65,yes,yes,fiber optic,no,no,yes,yes,yes,yes,one year,yes,bank transfer,103.9,6767.1
+male,no,no,yes,2,yes,no,dsl,no,no,no,no,no,yes,monthly,yes,electronic check,55.3,108.65
+female,no,yes,no,62,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,23.65,1416.75
+male,no,no,no,3,yes,no,fiber optic,no,no,yes,yes,yes,no,monthly,yes,mailed check,89.85,244.45
+male,no,yes,yes,49,yes,yes,fiber optic,no,yes,yes,no,yes,no,one year,yes,electronic check,93.65,4520.15
+female,no,no,yes,15,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,bank transfer,69.0,994.8
+female,no,no,yes,41,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,credit card,20.25,865.0
+female,yes,no,no,46,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,electronic check,104.45,4863.85
+male,no,no,no,56,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,bank transfer,25.95,1444.05
+male,no,no,no,48,yes,yes,fiber optic,yes,no,no,yes,no,yes,monthly,yes,electronic check,95.4,4445.3
+male,no,no,no,2,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,mailed check,70.7,129.2
+female,no,yes,yes,72,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,23.75,1679.25
+male,no,yes,no,45,yes,no,dsl,yes,yes,yes,no,yes,yes,one year,no,bank transfer,78.8,3597.5
+male,no,yes,yes,37,yes,yes,dsl,yes,no,yes,yes,no,no,two year,yes,credit card,62.8,2278.75
+female,no,no,no,61,yes,yes,fiber optic,no,no,yes,no,no,yes,monthly,no,mailed check,89.2,5500.6
+female,no,no,no,60,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.6,1093.0
+female,yes,yes,no,2,yes,no,dsl,no,yes,no,no,no,no,monthly,no,credit card,50.15,115.1
+female,no,yes,yes,63,yes,no,dsl,yes,yes,yes,yes,yes,no,two year,no,credit card,75.55,4707.85
+female,yes,no,no,4,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,84.6,360.1
+male,no,no,no,62,yes,yes,fiber optic,yes,yes,no,yes,no,yes,one year,no,electronic check,102.0,6529.25
+female,no,no,no,62,yes,yes,fiber optic,yes,yes,yes,no,no,no,one year,yes,electronic check,92.05,5755.8
+male,no,no,no,69,yes,yes,fiber optic,no,yes,yes,yes,yes,no,two year,yes,credit card,97.65,6743.55
+female,no,no,no,4,yes,no,fiber optic,no,yes,yes,yes,yes,yes,one year,yes,electronic check,105.65,443.9
+female,no,yes,no,49,no,no phone service,dsl,no,yes,no,yes,yes,yes,one year,yes,credit card,56.3,2780.6
+male,no,no,no,51,yes,yes,dsl,yes,yes,yes,yes,yes,no,one year,yes,credit card,81.15,4126.2
+male,no,no,no,26,no,no phone service,dsl,yes,yes,no,no,no,yes,monthly,yes,bank transfer,44.65,1156.55
+female,no,no,no,9,yes,no,dsl,no,no,no,no,no,no,monthly,yes,electronic check,43.75,405.7
+female,no,no,no,57,yes,yes,fiber optic,no,yes,no,yes,no,yes,one year,no,electronic check,94.7,5468.95
+female,no,yes,no,37,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,bank transfer,19.5,805.2
+male,no,no,no,30,yes,no,fiber optic,no,yes,no,no,yes,yes,one year,yes,bank transfer,97.0,3021.3
+female,yes,yes,yes,70,yes,yes,fiber optic,no,yes,yes,yes,yes,yes,one year,yes,electronic check,107.9,7475.85
+male,no,no,yes,22,yes,no,fiber optic,no,yes,yes,no,yes,no,monthly,yes,electronic check,89.4,2001.5
+male,no,no,no,39,no,no phone service,dsl,yes,yes,no,yes,yes,no,monthly,yes,credit card,48.95,1880.85
+female,yes,yes,no,33,yes,yes,fiber optic,no,yes,no,no,no,no,monthly,yes,bank transfer,80.6,2656.5
+male,no,no,no,60,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,one year,yes,credit card,116.6,7049.5
+female,no,yes,yes,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,electronic check,19.45,19.45
+female,no,yes,yes,12,yes,no,dsl,no,no,yes,no,yes,no,monthly,yes,credit card,58.35,740.55
+female,no,yes,yes,51,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.95,1028.75
+female,no,yes,yes,22,yes,no,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,80.15,1790.65
+male,no,yes,yes,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,18.8,18.8
+male,no,yes,yes,39,yes,yes,fiber optic,no,no,yes,no,yes,yes,one year,no,electronic check,100.0,3835.55
+female,no,no,no,4,yes,yes,fiber optic,no,yes,no,yes,no,yes,monthly,yes,electronic check,93.5,362.2
+female,no,no,no,39,yes,no,fiber optic,no,no,yes,yes,no,no,two year,yes,electronic check,80.45,3201.55
+male,yes,yes,no,69,yes,yes,fiber optic,yes,yes,no,no,no,no,monthly,yes,credit card,84.9,5785.65
+male,yes,yes,no,8,yes,no,dsl,no,no,yes,yes,no,yes,monthly,yes,credit card,64.4,581.7
+male,no,yes,no,68,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,25.05,1629.2
+female,yes,no,no,2,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,electronic check,70.75,154.85
+male,yes,yes,no,24,no,no phone service,dsl,yes,no,no,no,no,yes,monthly,no,bank transfer,39.1,971.3
+female,no,yes,no,42,yes,yes,dsl,no,no,no,no,no,no,monthly,yes,electronic check,50.25,2203.65
+female,no,yes,no,59,yes,yes,dsl,no,yes,no,yes,yes,yes,one year,yes,electronic check,80.1,4693.2
+male,no,yes,yes,1,yes,no,fiber optic,no,no,no,no,no,yes,monthly,no,electronic check,80.0,80.0
+female,no,yes,yes,46,no,no phone service,dsl,yes,yes,no,no,no,no,monthly,no,bank transfer,35.05,1620.25
+male,no,no,no,4,no,no phone service,dsl,no,no,yes,no,no,no,monthly,yes,electronic check,29.65,118.5
+male,no,yes,yes,11,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,electronic check,20.45,250.8
+male,no,yes,no,59,yes,no,dsl,yes,yes,yes,no,yes,no,one year,no,credit card,66.4,3958.2
+female,no,yes,yes,53,yes,no,dsl,no,no,yes,no,no,yes,one year,no,credit card,60.6,3297.0
+female,no,no,no,3,yes,no,dsl,no,no,no,no,yes,no,monthly,yes,electronic check,54.2,140.4
+female,no,yes,no,72,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,bank transfer,25.25,1841.2
+male,no,no,no,9,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,18.95,185.6
+male,no,yes,yes,24,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,credit card,20.8,469.65
+female,yes,yes,no,45,yes,no,fiber optic,no,no,yes,no,no,yes,monthly,yes,electronic check,86.1,3861.45
+female,no,yes,no,49,no,no phone service,dsl,yes,no,no,no,yes,no,monthly,no,bank transfer,40.65,2070.75
+female,no,yes,no,61,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,24.4,1417.9
+male,no,no,no,2,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,70.3,144.0
+female,no,no,no,5,yes,no,fiber optic,no,no,no,yes,no,yes,monthly,yes,credit card,85.4,425.9
+female,no,no,no,2,no,no phone service,dsl,yes,yes,no,no,no,yes,monthly,yes,electronic check,42.6,72.4
+male,no,no,no,25,yes,yes,dsl,yes,yes,yes,yes,no,yes,monthly,no,bank transfer,81.75,2028.8
+female,no,yes,no,60,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,electronic check,106.15,6411.25
+male,no,yes,yes,51,yes,yes,fiber optic,yes,yes,no,yes,yes,yes,one year,no,credit card,110.05,5686.4
+male,no,yes,yes,2,yes,yes,dsl,yes,no,no,no,no,no,monthly,no,mailed check,56.7,113.55
+male,yes,yes,no,62,yes,yes,fiber optic,no,yes,yes,no,yes,yes,one year,yes,electronic check,103.75,6383.35
+male,no,yes,no,52,yes,yes,dsl,yes,yes,yes,yes,no,yes,one year,yes,credit card,81.4,4354.45
+male,no,no,no,68,yes,yes,dsl,yes,yes,yes,no,no,yes,one year,yes,credit card,76.9,5023.0
+female,no,no,no,22,yes,yes,fiber optic,no,no,no,no,yes,no,monthly,yes,bank transfer,84.15,1821.95
+male,yes,yes,no,1,no,no phone service,dsl,no,no,no,no,no,no,monthly,no,electronic check,25.05,25.05
+male,yes,no,no,3,no,no phone service,dsl,no,no,yes,no,no,yes,monthly,yes,electronic check,41.15,132.2
+female,yes,no,no,16,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,96.4,1581.2
+female,yes,no,no,32,yes,no,fiber optic,no,yes,no,no,no,no,monthly,yes,electronic check,74.4,2276.95
+male,no,no,no,50,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,24.9,1195.25
+male,no,yes,yes,1,yes,no,dsl,yes,no,no,no,no,no,monthly,yes,mailed check,48.75,48.75
+female,no,no,no,6,yes,no,fiber optic,no,no,yes,no,no,yes,monthly,no,electronic check,83.9,497.55
+male,no,no,no,1,yes,no,dsl,no,yes,no,no,no,no,monthly,yes,electronic check,50.75,50.75
+female,no,yes,yes,29,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.2,558.8
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,19.3,19.3
+female,no,no,no,58,yes,no,fiber optic,no,no,no,yes,yes,yes,monthly,yes,electronic check,95.3,5817.7
+male,yes,yes,yes,35,yes,no,dsl,no,yes,no,yes,yes,yes,monthly,yes,electronic check,76.05,2747.2
+male,no,no,no,43,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.55,876.15
+female,no,no,no,41,yes,no,dsl,no,no,no,yes,no,no,one year,no,bank transfer,50.05,2029.05
+female,no,yes,yes,47,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,19.3,890.5
+female,no,no,no,33,yes,yes,fiber optic,no,yes,no,no,yes,yes,monthly,yes,electronic check,100.0,3320.6
+male,no,no,no,67,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,20.5,1430.95
+female,no,yes,no,72,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,19.4,1496.45
+male,no,yes,yes,50,yes,yes,dsl,no,no,yes,no,no,no,one year,no,bank transfer,54.9,2614.1
+male,yes,yes,no,49,yes,no,dsl,no,yes,no,no,no,no,two year,no,mailed check,49.8,2398.4
+male,no,no,no,4,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,74.35,265.35
+male,no,yes,no,61,yes,no,fiber optic,no,yes,yes,yes,no,yes,monthly,no,credit card,94.15,5731.85
+male,no,yes,yes,7,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.65,150.0
+male,yes,no,no,14,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,no,credit card,90.45,1266.1
+female,no,yes,no,26,yes,no,dsl,no,yes,no,yes,yes,yes,monthly,yes,electronic check,73.05,1959.5
+female,yes,no,no,35,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,electronic check,70.55,2419.0
+female,yes,yes,no,54,yes,no,fiber optic,no,no,yes,yes,yes,yes,one year,yes,electronic check,99.1,5437.1
+female,no,no,no,8,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,no,bank transfer,95.65,778.1
+male,no,no,yes,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,71.65,71.65
+female,no,yes,yes,67,yes,yes,fiber optic,yes,no,yes,yes,no,yes,one year,yes,bank transfer,100.25,6689.0
+female,no,no,yes,24,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.75,498.1
+female,no,yes,yes,64,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,24.9,1595.5
+female,yes,yes,yes,34,yes,yes,fiber optic,no,yes,no,no,no,no,monthly,yes,mailed check,79.6,2718.3
+male,no,yes,yes,8,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,credit card,19.9,153.95
+female,no,no,no,6,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.2,123.65
+male,no,no,no,13,yes,yes,fiber optic,no,no,no,yes,yes,yes,monthly,yes,mailed check,99.0,1301.7
+male,no,yes,yes,62,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,bank transfer,24.25,1424.6
+male,no,yes,no,34,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,electronic check,100.05,3480.0
+male,no,no,no,9,yes,yes,fiber optic,no,yes,no,no,yes,yes,monthly,yes,credit card,99.3,918.75
+male,no,no,no,22,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,credit card,20.3,467.15
+male,no,no,yes,40,yes,no,dsl,yes,yes,no,no,no,no,monthly,yes,mailed check,55.25,2139.2
+female,yes,yes,no,35,yes,yes,fiber optic,yes,yes,no,yes,yes,no,monthly,yes,bank transfer,100.5,3653.35
+male,no,no,no,7,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,23.5,173.0
+male,yes,no,no,32,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,credit card,19.8,587.7
+male,no,no,yes,61,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.75,1124.2
+male,no,no,no,2,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.75,44.2
+female,no,yes,no,56,yes,yes,fiber optic,no,no,yes,yes,yes,yes,two year,no,bank transfer,103.2,5744.35
+female,yes,yes,no,65,yes,yes,fiber optic,no,yes,yes,no,yes,yes,one year,yes,electronic check,106.25,6979.8
+female,no,yes,yes,28,yes,yes,dsl,no,no,no,no,no,no,monthly,no,mailed check,49.9,1410.25
+male,no,no,no,18,yes,yes,dsl,yes,no,yes,no,yes,no,monthly,no,mailed check,69.5,1199.4
+female,no,yes,yes,71,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,yes,credit card,90.55,6239.05
+male,no,no,no,72,yes,yes,dsl,no,yes,yes,yes,yes,yes,two year,yes,bank transfer,88.6,6201.95
+male,yes,no,no,1,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,76.45,76.45
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.75,19.75
+female,no,no,no,34,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.35,673.2
+female,no,no,no,8,yes,yes,fiber optic,no,no,no,no,yes,no,monthly,yes,electronic check,87.05,762.1
+female,no,no,no,47,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,electronic check,106.4,5127.95
+female,no,yes,yes,72,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,bank transfer,24.05,1709.15
+female,no,yes,yes,52,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,bank transfer,25.05,1270.25
+male,no,no,no,3,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.85,64.55
+female,no,yes,no,60,no,no phone service,dsl,yes,yes,no,yes,no,no,two year,no,bank transfer,37.7,2288.7
+female,no,no,no,3,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,96.6,291.9
+male,no,no,no,19,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,bank transfer,86.0,1532.45
+male,no,no,no,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,69.9,69.9
+female,no,yes,no,6,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,electronic check,105.3,545.2
+male,no,yes,yes,49,yes,no,dsl,yes,yes,no,yes,no,no,monthly,no,credit card,59.6,2970.3
+male,yes,no,no,22,yes,yes,fiber optic,no,no,no,yes,yes,no,monthly,yes,bank transfer,90.5,1910.6
+female,no,yes,yes,42,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,electronic check,19.05,761.85
+male,yes,yes,no,46,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,electronic check,98.85,4564.9
+male,no,no,no,68,no,no phone service,dsl,no,no,yes,no,no,yes,monthly,yes,bank transfer,39.9,2796.35
+female,no,no,yes,2,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,bank transfer,20.5,38.25
+male,no,no,yes,0,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.25,0.0
+female,no,yes,yes,35,yes,yes,dsl,yes,no,yes,yes,yes,no,monthly,no,electronic check,72.25,2568.55
+female,no,no,no,2,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.5,27.55
+male,no,yes,yes,68,yes,no,dsl,yes,yes,yes,yes,no,no,two year,no,credit card,62.65,4375.8
+male,no,yes,no,16,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,75.4,1189.4
+male,no,yes,no,72,yes,yes,fiber optic,yes,no,yes,yes,yes,yes,two year,yes,credit card,110.9,8240.85
+male,no,yes,no,37,yes,yes,fiber optic,no,no,yes,yes,yes,no,two year,no,mailed check,94.3,3460.95
+male,no,yes,yes,53,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,25.55,1336.1
+female,no,no,no,40,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,no,bank transfer,83.85,3532.25
+female,no,no,no,46,yes,yes,fiber optic,no,yes,yes,no,no,yes,one year,yes,electronic check,94.15,4408.45
+male,no,no,no,3,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,electronic check,100.95,329.95
+female,no,no,no,1,yes,no,fiber optic,no,no,yes,no,no,no,monthly,no,electronic check,75.3,75.3
+male,no,no,no,7,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,electronic check,19.25,112.3
+male,no,no,no,6,no,no phone service,dsl,no,yes,no,no,no,no,monthly,yes,credit card,30.5,208.7
+male,no,no,no,46,yes,yes,fiber optic,yes,no,no,no,yes,no,monthly,yes,credit card,89.15,4245.55
+female,no,yes,no,54,yes,yes,dsl,no,no,no,no,yes,yes,one year,yes,credit card,70.15,3715.65
+male,yes,no,no,15,yes,no,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,79.4,1156.1
+male,no,no,no,3,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,85.3,264.8
+male,no,yes,yes,70,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,20.05,1360.25
+male,no,no,yes,39,yes,yes,fiber optic,no,no,no,yes,yes,yes,two year,no,mailed check,100.55,3895.35
+male,no,yes,no,2,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.0,38.0
+male,no,no,no,18,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,bank transfer,75.6,1395.05
+male,yes,no,no,72,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,credit card,25.1,1789.9
+male,no,no,yes,47,yes,no,dsl,yes,yes,no,no,no,no,monthly,yes,electronic check,55.3,2654.05
+female,no,yes,yes,22,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.9,400.3
+male,no,yes,yes,71,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,no,credit card,89.9,6457.15
+male,no,no,no,8,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,74.85,572.45
+female,no,yes,yes,71,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,19.9,1389.35
+female,no,no,no,53,yes,no,fiber optic,no,yes,yes,yes,no,yes,one year,yes,credit card,94.45,5042.75
+male,yes,yes,no,37,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,bank transfer,72.25,2575.45
+male,no,yes,no,64,yes,yes,dsl,no,yes,no,yes,no,yes,one year,yes,mailed check,70.15,4480.7
+male,no,no,yes,5,yes,no,dsl,no,no,no,yes,no,no,monthly,yes,bank transfer,48.65,235.2
+female,no,no,no,60,yes,yes,fiber optic,no,yes,yes,no,yes,yes,two year,no,electronic check,104.7,6333.8
+male,no,no,no,2,yes,no,dsl,no,yes,no,no,no,no,monthly,yes,mailed check,50.3,92.75
+female,no,no,no,25,no,no phone service,dsl,no,no,yes,yes,yes,yes,one year,no,electronic check,54.2,1423.15
+female,no,yes,yes,6,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.7,113.5
+male,no,yes,yes,60,yes,yes,fiber optic,yes,no,yes,yes,yes,yes,two year,yes,electronic check,110.6,6586.85
+female,no,no,no,30,yes,yes,fiber optic,no,yes,no,no,yes,yes,monthly,yes,electronic check,100.2,2983.8
+male,no,no,no,67,no,no phone service,dsl,yes,no,yes,yes,yes,no,one year,yes,bank transfer,49.35,3321.35
+male,no,no,no,53,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,bank transfer,24.05,1301.9
+female,no,yes,yes,10,yes,no,dsl,no,no,yes,yes,no,no,monthly,no,credit card,55.2,528.35
+female,no,no,no,1,yes,no,dsl,no,no,no,yes,no,no,monthly,yes,electronic check,52.2,52.2
+male,no,yes,no,55,no,no phone service,dsl,no,no,yes,yes,yes,yes,monthly,yes,bank transfer,54.55,2978.3
+female,no,no,no,70,yes,yes,dsl,yes,yes,yes,no,yes,yes,two year,no,mailed check,84.7,5991.05
+female,no,yes,no,34,yes,no,dsl,no,no,no,yes,no,no,monthly,no,bank transfer,50.2,1815.3
+female,no,no,no,68,yes,yes,fiber optic,yes,yes,no,yes,yes,yes,two year,no,credit card,110.25,7279.35
+female,no,yes,no,59,yes,yes,fiber optic,yes,yes,yes,no,yes,yes,one year,yes,credit card,109.15,6557.75
+female,no,no,no,9,yes,no,fiber optic,yes,no,no,no,no,no,monthly,yes,electronic check,74.85,708.2
+male,no,no,no,6,yes,no,fiber optic,no,no,no,no,yes,no,monthly,yes,credit card,80.5,463.05
+male,no,yes,no,50,yes,yes,fiber optic,yes,no,yes,no,yes,yes,one year,yes,electronic check,103.95,5231.3
+female,yes,yes,yes,72,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,no,credit card,92.45,6440.25
+male,yes,yes,no,41,no,no phone service,dsl,no,yes,yes,no,yes,yes,monthly,yes,electronic check,53.95,2215.4
+male,no,no,no,4,yes,no,dsl,no,no,no,yes,no,no,monthly,yes,mailed check,50.8,202.3
+male,no,yes,yes,47,no,no phone service,dsl,yes,no,yes,yes,no,no,one year,no,electronic check,40.3,1794.8
+male,no,yes,yes,62,yes,yes,fiber optic,yes,yes,no,no,yes,no,one year,yes,credit card,94.95,5791.85
+female,no,yes,yes,18,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.45,357.0
+female,no,yes,no,3,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,75.85,256.6
+male,no,no,no,65,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,bank transfer,25.1,1725.0
+male,no,yes,no,59,yes,yes,fiber optic,no,no,no,no,no,yes,one year,no,electronic check,85.55,5084.65
+female,no,no,no,60,yes,no,dsl,no,yes,yes,yes,yes,no,one year,yes,credit card,70.15,4224.7
+female,no,no,no,10,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,20.55,187.35
+male,no,yes,yes,7,no,no phone service,dsl,yes,yes,yes,no,no,no,two year,no,mailed check,38.55,280.0
+male,no,no,no,28,yes,no,fiber optic,no,no,yes,yes,no,yes,monthly,no,electronic check,91.0,2626.15
+male,yes,yes,no,29,yes,yes,fiber optic,no,no,no,yes,no,no,monthly,yes,electronic check,79.3,2414.55
+male,no,yes,yes,0,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,mailed check,19.7,0.0
+female,no,no,no,37,yes,yes,dsl,yes,no,no,no,yes,no,one year,no,bank transfer,64.65,2347.85
+female,no,yes,yes,45,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,bank transfer,24.65,1138.8
+male,no,yes,no,61,yes,yes,dsl,no,yes,yes,no,yes,yes,one year,yes,electronic check,79.8,4914.8
+female,no,yes,no,64,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,19.45,1208.6
+male,no,yes,yes,63,yes,yes,fiber optic,no,yes,no,no,no,yes,one year,yes,electronic check,91.35,5764.7
+female,yes,yes,no,37,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,76.5,2868.15
+female,yes,yes,no,72,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,24.3,1778.7
+female,no,yes,yes,66,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,no,credit card,89.9,5958.85
+female,no,no,no,1,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,no,mailed check,95.65,95.65
+female,no,yes,no,9,yes,no,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,79.75,769.1
+male,no,no,no,1,no,no phone service,dsl,no,no,no,no,no,no,monthly,no,mailed check,25.35,25.35
+female,yes,no,no,4,yes,no,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,credit card,99.8,442.85
+female,yes,yes,no,38,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,bank transfer,74.95,2869.85
+male,no,yes,yes,44,yes,no,dsl,no,yes,yes,yes,no,no,monthly,yes,mailed check,61.9,2924.05
+female,no,yes,no,22,yes,no,dsl,no,yes,yes,no,no,no,monthly,yes,mailed check,54.7,1178.75
+female,no,no,no,53,yes,yes,fiber optic,yes,no,yes,no,yes,yes,one year,yes,credit card,106.95,5785.5
+male,yes,yes,no,23,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,90.45,2117.25
+female,no,no,no,20,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,credit card,18.9,347.65
+male,no,no,no,51,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,24.75,1234.6
+male,no,yes,yes,62,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,20.65,1218.45
+male,no,no,no,7,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,18.95,130.55
+female,no,no,no,17,yes,no,fiber optic,no,yes,no,no,yes,no,monthly,yes,electronic check,83.55,1329.15
+male,no,no,yes,41,yes,no,dsl,yes,yes,yes,no,yes,no,one year,no,mailed check,70.2,2894.55
+female,no,no,no,7,yes,no,fiber optic,no,yes,no,no,yes,yes,one year,yes,mailed check,94.05,633.45
+male,no,no,yes,1,yes,yes,dsl,no,no,no,no,no,no,monthly,yes,electronic check,50.05,50.05
+female,no,yes,no,64,yes,yes,dsl,no,no,yes,yes,no,no,one year,no,bank transfer,58.35,3756.45
+female,no,no,no,3,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,75.5,220.6
+female,yes,yes,no,50,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,71.05,3444.85
+male,no,yes,no,18,yes,yes,dsl,no,yes,no,no,no,no,monthly,no,credit card,56.8,1074.65
+female,no,yes,yes,13,yes,no,dsl,no,no,no,no,no,yes,monthly,no,electronic check,55.95,734.35
+male,no,yes,yes,69,yes,no,dsl,yes,yes,no,yes,yes,yes,two year,no,bank transfer,80.65,5542.55
+female,no,no,no,1,yes,yes,fiber optic,no,yes,no,no,no,no,monthly,yes,mailed check,79.15,79.15
+male,no,no,no,4,yes,yes,fiber optic,yes,no,no,no,yes,no,monthly,no,electronic check,90.65,367.95
+male,no,no,no,1,yes,no,dsl,no,no,no,no,yes,no,monthly,yes,mailed check,53.5,53.5
+male,no,yes,yes,25,yes,no,dsl,no,yes,yes,no,no,no,one year,no,mailed check,53.65,1355.45
+female,no,yes,yes,18,yes,no,dsl,no,no,no,no,yes,no,monthly,no,mailed check,55.95,1082.8
+male,no,yes,yes,48,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,23.55,1173.35
+male,no,no,no,26,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,credit card,20.65,595.5
+male,no,no,no,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,69.1,69.1
+female,no,no,yes,4,no,no phone service,dsl,yes,yes,yes,no,yes,yes,monthly,yes,mailed check,57.2,223.75
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.3,20.3
+male,no,yes,yes,11,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,74.35,834.2
+male,no,yes,yes,4,yes,no,dsl,no,no,no,yes,no,yes,monthly,no,credit card,61.45,229.55
+female,yes,no,no,8,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,electronic check,19.65,164.3
+female,no,yes,no,6,yes,yes,fiber optic,no,yes,no,no,no,yes,monthly,yes,electronic check,90.75,512.25
+male,no,no,no,72,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,no,bank transfer,92.0,6632.75
+female,no,no,no,27,yes,no,dsl,yes,yes,no,no,no,no,two year,no,bank transfer,52.85,1498.65
+female,yes,no,yes,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,71.0,71.0
+female,no,no,no,17,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.15,353.65
+male,no,no,no,66,yes,yes,dsl,yes,yes,yes,yes,no,no,two year,no,bank transfer,68.75,4447.55
+male,no,no,no,53,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,19.5,1050.5
+male,no,yes,no,44,yes,yes,fiber optic,yes,no,yes,no,no,no,monthly,yes,credit card,84.8,3626.35
+male,no,yes,yes,52,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,credit card,20.85,1071.6
+male,yes,yes,no,70,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,no,credit card,90.05,6333.4
+female,no,no,no,1,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,25.75,25.75
+male,no,yes,no,61,yes,yes,fiber optic,no,yes,no,yes,yes,no,two year,yes,electronic check,94.1,5638.3
+male,no,yes,yes,19,yes,yes,fiber optic,no,no,no,yes,yes,yes,one year,yes,electronic check,100.95,1875.55
+female,no,yes,yes,11,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.6,233.9
+male,no,no,no,26,yes,no,fiber optic,no,yes,no,no,yes,no,monthly,yes,electronic check,85.75,2146.5
+female,no,no,no,60,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,19.85,1128.1
+male,no,no,no,1,yes,no,fiber optic,no,no,yes,no,yes,no,monthly,yes,electronic check,84.85,84.85
+male,no,no,no,26,yes,yes,fiber optic,yes,yes,no,no,yes,no,monthly,yes,credit card,92.4,2349.8
+male,yes,no,no,24,yes,yes,fiber optic,no,yes,no,no,no,no,monthly,yes,electronic check,80.5,2088.45
+male,no,yes,yes,22,yes,no,fiber optic,no,yes,yes,no,yes,yes,one year,yes,mailed check,100.05,2090.25
+female,no,yes,no,51,yes,yes,fiber optic,no,no,yes,no,yes,yes,one year,yes,electronic check,98.85,4947.55
+male,yes,yes,no,61,yes,yes,fiber optic,no,yes,no,yes,no,no,one year,yes,bank transfer,85.55,5251.75
+male,no,yes,no,44,no,no phone service,dsl,no,yes,yes,no,yes,yes,two year,no,bank transfer,54.3,2390.45
+female,no,yes,yes,0,yes,no,dsl,yes,yes,yes,no,yes,yes,two year,no,mailed check,80.85,0.0
+female,no,no,no,5,yes,no,fiber optic,no,no,no,yes,no,no,monthly,yes,mailed check,75.65,399.45
+female,no,yes,no,1,yes,no,fiber optic,no,no,no,no,yes,no,monthly,no,electronic check,78.8,78.8
+male,no,no,no,26,yes,yes,dsl,yes,yes,no,no,no,no,one year,no,electronic check,61.55,1581.95
+female,no,no,no,15,yes,yes,fiber optic,yes,no,yes,no,no,no,monthly,yes,credit card,84.35,1302.65
+male,no,yes,no,4,yes,no,fiber optic,no,no,no,no,yes,no,monthly,yes,electronic check,80.35,307.4
+male,no,yes,no,12,yes,no,fiber optic,yes,yes,yes,no,no,no,monthly,yes,electronic check,84.6,959.9
+male,no,no,yes,1,yes,no,dsl,no,no,no,yes,no,no,monthly,yes,mailed check,49.9,49.9
+male,no,yes,yes,22,yes,no,dsl,yes,yes,no,yes,no,no,monthly,yes,mailed check,57.95,1271.8
+male,no,yes,no,49,no,no phone service,dsl,no,yes,no,no,yes,yes,two year,no,credit card,49.65,2409.9
+male,no,no,no,13,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.75,265.75
+female,no,yes,no,66,yes,yes,fiber optic,no,yes,yes,yes,no,no,one year,yes,bank transfer,90.55,6130.95
+male,no,yes,no,62,no,no phone service,dsl,no,no,no,yes,yes,no,two year,yes,bank transfer,39.0,2337.45
+male,no,yes,yes,66,yes,yes,dsl,no,no,yes,no,yes,no,two year,yes,bank transfer,63.3,4189.7
+female,no,no,no,3,no,no phone service,dsl,no,no,no,no,yes,no,monthly,no,credit card,35.2,108.95
+male,no,no,no,63,yes,yes,dsl,yes,yes,yes,yes,no,no,one year,no,bank transfer,68.8,4111.35
+male,no,yes,yes,15,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.35,278.85
+female,no,yes,no,43,yes,yes,fiber optic,yes,yes,no,no,no,yes,monthly,yes,electronic check,94.1,4107.3
+male,yes,no,no,65,yes,yes,fiber optic,yes,no,yes,yes,yes,yes,two year,yes,electronic check,109.05,7108.2
+female,no,no,no,2,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,85.7,169.8
+female,no,no,no,14,yes,no,dsl,yes,no,no,no,no,no,monthly,no,bank transfer,50.1,709.5
+female,no,yes,yes,68,yes,yes,fiber optic,yes,no,yes,yes,yes,yes,two year,yes,bank transfer,109.05,7508.55
+male,no,no,no,20,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,credit card,19.6,356.15
+female,no,yes,yes,57,yes,yes,dsl,yes,yes,no,yes,no,no,monthly,no,bank transfer,65.2,3687.85
+male,no,no,no,72,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,credit card,19.8,1468.75
+male,no,no,no,6,yes,no,fiber optic,no,yes,no,no,no,yes,monthly,yes,electronic check,84.4,556.35
+male,no,no,no,53,yes,yes,dsl,no,yes,yes,yes,no,yes,two year,yes,bank transfer,73.9,3958.25
+female,no,yes,yes,57,yes,no,dsl,yes,no,no,no,yes,yes,one year,yes,bank transfer,70.1,3913.3
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,20.1,20.1
+male,no,no,no,15,yes,yes,dsl,no,no,no,no,no,no,monthly,yes,electronic check,49.0,749.25
+female,yes,no,no,40,yes,no,fiber optic,yes,yes,no,no,no,no,monthly,yes,credit card,79.2,3233.85
+male,no,no,no,71,no,no phone service,dsl,yes,yes,yes,yes,yes,no,two year,no,bank transfer,53.95,3888.65
+female,yes,yes,no,13,no,no phone service,dsl,no,no,no,no,yes,yes,monthly,no,electronic check,45.3,528.45
+female,no,yes,no,72,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,yes,bank transfer,91.15,6637.9
+female,no,yes,yes,52,yes,yes,fiber optic,no,yes,yes,no,yes,no,one year,yes,credit card,95.7,4976.15
+female,no,yes,no,63,yes,no,fiber optic,yes,no,yes,no,no,no,one year,yes,credit card,81.15,5224.5
+male,no,no,no,29,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,19.1,529.5
+female,no,no,no,29,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,no,bank transfer,100.55,2878.75
+male,no,no,no,3,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,credit card,20.75,67.1
+male,no,yes,yes,19,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.6,414.95
+male,no,yes,yes,61,yes,yes,fiber optic,no,no,yes,no,yes,yes,one year,yes,electronic check,99.9,6241.35
+female,no,no,no,10,yes,no,dsl,no,no,yes,yes,no,no,monthly,no,electronic check,54.25,583.0
+female,no,yes,no,67,yes,yes,fiber optic,no,yes,yes,yes,yes,yes,one year,yes,credit card,109.7,7344.45
+male,no,no,no,42,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,mailed check,19.55,839.4
+female,no,no,no,1,yes,no,fiber optic,no,yes,no,no,no,no,monthly,yes,electronic check,75.7,75.7
+female,no,no,no,5,yes,yes,fiber optic,no,no,no,no,yes,no,monthly,yes,electronic check,84.0,424.75
+female,no,no,no,20,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,19.5,403.15
+male,yes,no,no,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,bank transfer,69.5,69.5
+male,no,no,no,6,yes,no,fiber optic,yes,yes,no,no,no,no,monthly,yes,electronic check,78.95,494.95
+male,no,no,no,34,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,electronic check,106.35,3549.25
+male,no,no,no,21,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.6,390.4
+male,no,no,no,46,yes,yes,fiber optic,no,yes,yes,yes,yes,yes,two year,no,electronic check,108.65,4903.2
+male,no,yes,yes,34,yes,yes,fiber optic,no,yes,no,no,yes,yes,monthly,yes,bank transfer,97.7,3410.0
+male,no,no,yes,29,no,no phone service,dsl,yes,yes,yes,yes,no,no,monthly,yes,mailed check,45.0,1242.45
+male,no,yes,yes,27,yes,no,fiber optic,yes,yes,no,no,no,no,one year,yes,credit card,80.65,2209.75
+female,no,yes,yes,72,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,no,credit card,89.8,6510.45
+female,no,no,no,42,yes,no,dsl,yes,no,yes,no,no,no,monthly,no,credit card,54.55,2455.05
+female,yes,no,no,27,yes,yes,fiber optic,no,no,yes,no,no,no,monthly,yes,electronic check,78.05,2135.5
+male,no,yes,no,66,yes,yes,dsl,yes,yes,yes,no,no,no,two year,yes,credit card,66.1,4428.45
+female,no,no,no,2,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,75.55,166.3
+male,no,no,no,32,yes,no,fiber optic,no,no,no,yes,yes,yes,monthly,yes,electronic check,96.2,3183.4
+male,yes,no,no,14,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,74.95,1036.75
+male,no,no,no,19,yes,no,fiber optic,no,no,yes,yes,yes,no,monthly,no,mailed check,89.95,1682.4
+male,no,no,yes,48,yes,yes,dsl,yes,yes,yes,no,no,no,one year,yes,bank transfer,64.4,3035.35
+male,no,no,no,4,yes,no,fiber optic,no,no,yes,no,no,no,monthly,yes,electronic check,73.9,280.85
+male,yes,yes,no,57,yes,yes,fiber optic,no,yes,no,no,no,yes,monthly,yes,electronic check,89.85,4925.35
+male,no,yes,yes,58,yes,no,dsl,no,yes,no,yes,yes,yes,one year,yes,credit card,75.2,4300.8
+female,yes,yes,no,56,yes,yes,dsl,yes,yes,yes,yes,no,no,one year,yes,credit card,68.45,4014.0
+female,no,yes,yes,69,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,19.75,1375.4
+male,no,yes,yes,10,no,no phone service,dsl,yes,yes,yes,yes,no,yes,two year,no,credit card,53.7,521.0
+female,no,yes,yes,3,yes,no,fiber optic,no,yes,no,yes,no,no,monthly,yes,electronic check,80.0,241.3
+male,no,no,no,35,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,bank transfer,26.2,954.9
+female,no,yes,yes,11,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,19.25,180.3
+male,no,yes,no,56,yes,yes,fiber optic,yes,no,no,no,yes,yes,one year,yes,electronic check,100.55,5514.95
+male,no,yes,yes,51,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,mailed check,24.95,1222.25
+male,yes,no,no,36,yes,yes,fiber optic,yes,no,no,no,yes,no,monthly,yes,electronic check,90.85,3186.7
+male,no,no,yes,5,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.45,106.9
+male,no,yes,yes,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.4,20.4
+male,yes,yes,no,7,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,mailed check,74.4,527.9
+male,no,yes,no,69,yes,no,dsl,yes,yes,no,no,no,no,one year,yes,credit card,53.65,3804.4
+male,no,yes,yes,22,yes,no,dsl,yes,no,yes,yes,yes,no,one year,yes,bank transfer,67.5,1544.05
+female,no,no,no,63,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,24.2,1618.2
+female,no,yes,yes,55,yes,yes,dsl,yes,yes,no,yes,no,yes,one year,yes,bank transfer,75.75,4264.25
+female,no,no,no,3,yes,no,dsl,no,no,yes,no,yes,no,monthly,no,electronic check,57.55,161.45
+male,no,yes,yes,67,yes,no,dsl,yes,yes,yes,no,yes,yes,two year,no,credit card,81.35,5398.6
+female,no,no,no,3,no,no phone service,dsl,no,no,no,no,no,no,monthly,no,electronic check,25.25,58.9
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.75,19.75
+male,no,no,no,16,yes,yes,fiber optic,no,no,no,yes,no,yes,monthly,yes,credit card,89.05,1448.6
+male,no,no,yes,62,yes,yes,fiber optic,no,no,yes,yes,yes,yes,two year,yes,electronic check,104.05,6590.5
+female,no,no,no,8,yes,yes,dsl,yes,yes,yes,no,no,no,monthly,yes,bank transfer,65.5,573.15
+male,no,no,yes,9,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.1,190.25
+female,no,yes,no,6,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,bank transfer,19.5,146.3
+female,no,no,no,28,yes,yes,dsl,yes,no,yes,no,no,no,one year,no,mailed check,59.0,1654.45
+male,no,no,no,26,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,19.4,525.55
+male,no,yes,yes,38,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,credit card,101.15,3956.7
+female,no,no,no,18,yes,yes,dsl,no,no,no,no,no,no,monthly,yes,electronic check,50.3,913.3
+female,no,yes,yes,3,no,no phone service,dsl,no,no,no,yes,no,no,monthly,yes,mailed check,31.0,95.05
+male,no,yes,no,3,no,no phone service,dsl,no,no,no,no,no,no,monthly,no,mailed check,25.0,78.25
+male,no,yes,no,70,yes,yes,dsl,no,yes,yes,yes,yes,no,two year,no,bank transfer,72.95,5265.55
+male,no,yes,yes,67,yes,yes,dsl,yes,yes,yes,yes,no,no,one year,yes,credit card,69.35,4653.25
+male,no,no,yes,71,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,24.35,1654.6
+male,no,no,yes,16,yes,yes,dsl,yes,yes,no,no,no,yes,monthly,yes,electronic check,69.1,1083.7
+female,no,yes,yes,10,yes,no,dsl,no,yes,no,yes,no,yes,monthly,yes,electronic check,65.5,616.9
+male,no,no,no,1,yes,yes,fiber optic,no,yes,no,no,no,yes,monthly,yes,credit card,90.85,90.85
+male,no,yes,yes,12,yes,no,dsl,no,no,no,no,yes,no,monthly,yes,mailed check,56.3,628.65
+female,no,no,no,5,yes,no,dsl,yes,no,no,yes,no,no,monthly,no,credit card,53.85,259.8
+female,yes,yes,no,40,yes,no,fiber optic,no,yes,no,yes,yes,yes,one year,yes,credit card,99.2,4062.2
+male,yes,yes,no,21,yes,no,dsl,yes,yes,no,no,no,yes,monthly,yes,bank transfer,64.95,1339.8
+male,no,no,no,9,yes,no,dsl,yes,no,yes,yes,no,yes,monthly,yes,bank transfer,68.25,576.95
+female,no,yes,no,7,yes,no,dsl,yes,no,no,no,no,no,monthly,yes,bank transfer,50.3,355.1
+female,no,no,no,38,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.05,678.2
+male,no,no,no,1,yes,no,dsl,no,no,yes,no,no,no,monthly,yes,electronic check,50.5,50.5
+male,no,no,no,7,yes,no,fiber optic,no,no,yes,no,no,no,monthly,yes,electronic check,74.9,490.55
+female,no,no,no,2,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,70.95,137.95
+female,no,no,no,56,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,bank transfer,19.55,1080.55
+female,no,yes,no,6,yes,yes,dsl,no,no,no,no,no,no,monthly,no,electronic check,50.35,314.55
+female,no,no,no,63,yes,no,dsl,no,no,yes,no,no,yes,one year,no,credit card,58.55,3503.5
+female,no,no,no,64,yes,yes,fiber optic,no,yes,yes,yes,yes,yes,two year,yes,credit card,110.5,7069.25
+male,no,yes,no,29,no,no phone service,dsl,no,no,no,no,yes,yes,monthly,yes,electronic check,45.9,1332.4
+male,no,no,no,32,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,bank transfer,85.65,2664.3
+female,yes,no,no,2,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,84.05,186.05
+male,no,yes,no,60,yes,no,fiber optic,no,yes,no,no,yes,yes,one year,yes,electronic check,94.4,5610.25
+male,no,no,no,22,yes,yes,dsl,yes,yes,yes,no,no,no,monthly,no,mailed check,65.05,1427.55
+male,no,no,no,11,no,no phone service,dsl,no,yes,no,yes,no,no,monthly,yes,electronic check,35.65,425.1
+male,yes,yes,no,57,yes,no,fiber optic,no,yes,yes,no,yes,no,one year,yes,electronic check,90.65,5199.8
+male,no,no,no,1,yes,no,dsl,no,no,no,no,no,no,monthly,yes,mailed check,44.15,44.15
+female,no,no,no,62,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,credit card,19.2,1123.65
+female,no,yes,no,47,yes,yes,fiber optic,yes,yes,yes,no,yes,no,monthly,yes,electronic check,98.75,4533.7
+female,no,yes,yes,61,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,no,mailed check,88.1,5526.75
+female,no,no,no,3,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,70.15,194.2
+male,no,yes,yes,64,yes,no,fiber optic,yes,yes,no,no,no,no,monthly,no,electronic check,81.05,5135.35
+female,no,yes,yes,6,yes,yes,fiber optic,no,yes,yes,no,yes,no,monthly,yes,mailed check,94.05,518.75
+female,no,yes,yes,56,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.05,1090.1
+female,no,yes,yes,27,yes,no,dsl,no,yes,no,no,no,no,monthly,no,mailed check,49.85,1336.15
+female,no,yes,no,46,no,no phone service,dsl,yes,yes,no,no,yes,no,monthly,no,electronic check,45.55,2062.15
+male,yes,no,no,1,yes,no,dsl,no,no,no,no,no,no,monthly,no,electronic check,45.1,45.1
+male,no,no,no,11,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.4,231.45
+male,no,yes,no,32,yes,yes,fiber optic,no,yes,no,no,yes,yes,monthly,yes,credit card,98.85,3145.9
+male,no,no,no,4,yes,no,fiber optic,no,no,no,no,yes,no,monthly,no,electronic check,77.85,299.2
+male,no,no,no,24,yes,yes,dsl,yes,no,no,no,no,no,monthly,yes,bank transfer,55.65,1400.55
+male,no,no,no,35,yes,yes,fiber optic,yes,no,yes,yes,yes,yes,two year,yes,electronic check,108.95,4025.5
+female,no,no,yes,46,yes,no,fiber optic,yes,yes,no,yes,yes,yes,one year,yes,bank transfer,105.2,4822.85
+male,no,yes,yes,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,70.0,70.0
+female,no,yes,no,72,yes,yes,fiber optic,yes,no,yes,yes,yes,yes,two year,yes,credit card,110.15,7881.2
+female,yes,yes,no,63,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,electronic check,103.5,6479.4
+female,no,yes,no,21,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,86.5,1808.7
+male,no,yes,yes,37,no,no phone service,dsl,yes,no,yes,yes,no,no,one year,yes,electronic check,40.2,1525.35
+male,no,no,no,55,yes,no,fiber optic,yes,yes,no,no,yes,yes,one year,yes,mailed check,100.9,5552.05
+male,no,yes,no,14,yes,yes,dsl,no,no,no,yes,yes,no,monthly,yes,credit card,66.6,979.5
+male,no,yes,yes,53,yes,yes,dsl,yes,no,no,yes,no,yes,monthly,no,electronic check,71.85,3827.9
+female,no,yes,yes,50,yes,yes,dsl,no,yes,yes,yes,yes,yes,one year,yes,credit card,84.15,4164.4
+male,yes,yes,no,38,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,electronic check,102.6,4009.2
+female,yes,no,no,30,yes,yes,fiber optic,no,yes,no,no,yes,yes,monthly,yes,electronic check,99.7,2967.35
+female,no,no,no,28,yes,no,dsl,yes,yes,no,yes,no,no,one year,yes,electronic check,59.9,1654.7
+male,yes,yes,no,46,no,no phone service,dsl,no,yes,yes,yes,yes,yes,one year,yes,bank transfer,59.9,2816.65
+female,no,no,no,67,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,electronic check,20.55,1343.4
+female,no,no,no,1,yes,no,dsl,no,no,no,no,no,no,monthly,no,mailed check,45.95,45.95
+male,no,yes,no,50,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,electronic check,19.8,1013.2
+female,no,yes,no,56,yes,yes,fiber optic,yes,no,no,no,yes,yes,one year,yes,electronic check,98.0,5270.6
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.95,19.95
+male,no,yes,no,3,no,no phone service,dsl,yes,no,no,yes,no,no,monthly,no,mailed check,35.1,101.1
+female,no,yes,no,72,yes,yes,fiber optic,yes,yes,yes,no,yes,yes,two year,yes,electronic check,109.55,8165.1
+female,no,no,no,48,yes,no,dsl,yes,no,yes,yes,no,no,one year,yes,credit card,60.35,2896.4
+male,no,no,no,9,no,no phone service,dsl,yes,yes,yes,no,no,no,one year,no,mailed check,39.55,373.0
+male,no,no,no,19,yes,yes,dsl,no,no,no,no,yes,yes,monthly,no,mailed check,69.6,1394.55
+male,no,yes,yes,46,yes,no,dsl,yes,no,yes,yes,yes,yes,two year,no,mailed check,81.0,3846.35
+male,no,yes,no,56,yes,yes,fiber optic,no,yes,no,yes,yes,yes,one year,yes,electronic check,107.25,6033.3
+male,no,no,no,35,yes,yes,fiber optic,no,no,no,no,yes,no,monthly,no,electronic check,83.15,2848.45
+female,no,no,no,25,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,19.8,475.2
+female,no,no,no,21,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,68.65,1493.2
+male,no,yes,yes,71,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,25.35,1847.55
+female,no,yes,no,1,yes,no,fiber optic,no,no,no,no,yes,no,monthly,yes,bank transfer,79.35,79.35
+female,no,no,no,62,yes,yes,dsl,no,yes,yes,yes,yes,yes,two year,no,bank transfer,84.5,5193.2
+male,no,yes,yes,53,yes,yes,dsl,no,no,yes,yes,yes,yes,one year,yes,mailed check,78.75,3942.45
+female,no,no,no,2,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,mailed check,74.9,136.05
+male,yes,yes,no,72,yes,yes,fiber optic,yes,yes,yes,yes,no,no,two year,yes,bank transfer,93.05,6735.05
+female,no,yes,no,24,yes,yes,fiber optic,no,no,yes,no,no,no,monthly,yes,mailed check,79.65,1928.7
+male,no,no,no,41,yes,yes,dsl,no,no,yes,no,no,no,monthly,yes,bank transfer,55.7,2237.55
+female,no,no,yes,2,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,yes,bank transfer,94.2,193.8
+male,no,no,no,2,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,67.75,116.65
+male,yes,yes,no,27,yes,yes,fiber optic,no,yes,yes,no,no,yes,monthly,yes,electronic check,95.55,2510.2
+male,yes,yes,no,53,yes,yes,fiber optic,no,yes,no,no,yes,yes,monthly,yes,electronic check,101.9,5549.4
+female,no,no,no,34,yes,yes,dsl,yes,yes,no,yes,no,no,one year,yes,mailed check,64.4,2088.75
+male,no,no,no,1,yes,no,fiber optic,no,yes,no,no,no,yes,monthly,yes,electronic check,85.0,85.0
+female,no,yes,yes,48,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.55,883.35
+female,yes,no,no,3,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,credit card,75.05,256.25
+female,no,yes,yes,71,yes,no,dsl,yes,yes,yes,yes,no,no,two year,no,credit card,64.05,4492.9
+male,no,no,no,24,yes,no,fiber optic,no,yes,yes,yes,no,no,monthly,yes,electronic check,85.95,2107.15
+female,yes,yes,no,5,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,electronic check,70.05,302.6
+female,yes,no,no,8,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,75.75,606.25
+male,no,no,no,15,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,19.8,309.4
+male,yes,no,no,2,yes,no,fiber optic,no,yes,no,no,no,no,monthly,yes,electronic check,74.7,165.4
+female,no,yes,yes,13,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,bank transfer,25.0,332.5
+female,yes,yes,no,17,yes,yes,fiber optic,yes,no,yes,no,no,no,monthly,yes,bank transfer,85.35,1463.45
+male,no,yes,no,24,yes,yes,dsl,yes,no,no,yes,no,no,one year,yes,electronic check,58.35,1346.9
+female,no,yes,yes,50,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,20.55,1070.25
+male,no,no,no,57,yes,no,dsl,yes,no,yes,no,yes,yes,two year,yes,bank transfer,74.35,4317.35
+female,yes,no,no,3,no,no phone service,dsl,no,no,no,no,no,no,monthly,no,electronic check,25.3,77.75
+male,no,no,no,37,yes,yes,fiber optic,yes,no,no,no,yes,no,monthly,yes,electronic check,91.15,3369.25
+female,no,yes,no,71,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,25.6,1888.25
+male,no,yes,yes,72,yes,yes,dsl,yes,no,yes,yes,no,no,two year,yes,credit card,66.5,4811.6
+male,no,no,yes,52,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,25.6,1334.5
+male,no,no,no,4,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,electronic check,19.85,63.0
+male,no,no,no,9,yes,no,dsl,yes,no,yes,yes,yes,no,monthly,yes,mailed check,69.5,653.25
+male,yes,yes,no,7,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,74.85,485.25
+female,no,yes,yes,48,yes,no,dsl,yes,yes,yes,no,no,yes,two year,yes,credit card,70.1,3238.4
+female,no,yes,no,47,yes,no,dsl,no,yes,no,no,yes,no,monthly,yes,bank transfer,58.6,2723.4
+female,yes,no,no,4,yes,no,fiber optic,no,yes,no,no,no,no,monthly,no,electronic check,72.75,317.75
+female,no,no,no,47,yes,no,fiber optic,yes,no,yes,yes,yes,yes,one year,yes,electronic check,103.7,4730.6
+male,no,yes,no,24,no,no phone service,dsl,no,no,yes,no,no,no,monthly,no,electronic check,29.1,688.0
+female,no,no,no,1,yes,no,dsl,no,no,yes,no,no,no,monthly,yes,mailed check,50.45,50.45
+male,no,no,no,1,no,no phone service,dsl,no,yes,no,yes,no,yes,monthly,yes,mailed check,44.65,44.65
+female,no,yes,yes,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,electronic check,19.25,19.25
+male,no,no,no,48,yes,yes,fiber optic,no,yes,yes,no,yes,yes,two year,yes,bank transfer,108.1,5067.45
+male,no,no,no,27,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,bank transfer,20.1,562.6
+female,no,yes,no,60,yes,no,dsl,yes,yes,no,yes,no,no,two year,no,bank transfer,59.85,3483.45
+female,no,no,no,26,yes,no,dsl,no,yes,yes,no,no,no,one year,yes,mailed check,56.05,1553.2
+female,yes,no,no,51,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,19.6,967.9
+female,no,no,no,4,yes,no,fiber optic,no,no,no,no,yes,no,monthly,yes,electronic check,79.0,303.15
+female,yes,no,no,26,yes,yes,dsl,no,no,no,yes,no,yes,monthly,yes,electronic check,66.05,1652.4
+female,no,no,no,41,yes,yes,fiber optic,yes,yes,yes,yes,yes,no,monthly,yes,electronic check,106.5,4282.4
+female,no,yes,no,68,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,no,bank transfer,114.9,7843.55
+male,no,yes,yes,45,yes,no,dsl,yes,no,no,yes,no,no,two year,no,bank transfer,54.65,2553.7
+female,no,yes,yes,22,yes,no,dsl,no,yes,no,no,yes,yes,one year,yes,bank transfer,69.5,1498.2
+male,no,no,no,12,yes,no,fiber optic,no,no,no,no,no,yes,monthly,yes,bank transfer,79.95,1043.4
+female,no,no,no,1,yes,no,dsl,no,no,no,no,no,no,monthly,no,credit card,43.95,43.95
+male,no,no,no,7,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,94.1,701.3
+female,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,bank transfer,20.2,20.2
+female,no,no,no,13,no,no phone service,dsl,no,no,no,no,no,no,monthly,yes,electronic check,23.9,300.8
+male,no,no,no,51,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.45,1042.65
+male,no,yes,yes,4,yes,no,dsl,no,no,no,no,no,no,monthly,no,electronic check,44.8,169.65
+male,no,no,no,26,yes,yes,fiber optic,no,no,yes,yes,no,no,monthly,yes,mailed check,84.3,2281.6
+female,no,no,no,24,yes,yes,fiber optic,no,no,yes,no,yes,no,monthly,yes,credit card,88.95,2072.75
+female,yes,yes,no,61,yes,yes,fiber optic,yes,yes,yes,yes,no,no,monthly,yes,credit card,94.2,5895.45
+female,no,no,no,72,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,electronic check,114.9,8496.7
+female,no,no,no,55,yes,yes,fiber optic,yes,no,yes,no,no,no,one year,yes,credit card,84.25,4589.85
+male,no,no,no,12,yes,no,fiber optic,yes,no,yes,no,no,no,monthly,no,bank transfer,81.7,858.6
+male,no,yes,yes,64,yes,yes,fiber optic,yes,no,yes,no,no,yes,two year,no,bank transfer,93.4,5822.3
+female,yes,no,no,37,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,96.55,3580.3
+male,no,yes,no,72,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,yes,credit card,88.7,6301.7
+male,no,no,no,11,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,19.5,226.8
+female,yes,yes,no,52,yes,yes,fiber optic,yes,yes,yes,no,yes,yes,monthly,yes,electronic check,109.1,5647.95
+female,no,yes,yes,58,yes,no,dsl,no,no,no,no,no,no,one year,yes,mailed check,44.1,2413.05
+female,no,no,no,4,yes,no,dsl,yes,yes,no,no,no,no,monthly,no,electronic check,55.2,220.65
+female,no,yes,yes,38,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.3,749.35
+male,no,no,yes,3,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.85,60.65
+male,no,no,no,62,yes,yes,fiber optic,yes,yes,no,no,no,yes,one year,yes,bank transfer,92.3,5731.45
+female,no,no,no,8,yes,no,dsl,yes,no,no,yes,no,no,one year,no,bank transfer,54.25,447.75
+male,no,yes,yes,16,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,electronic check,19.75,313.4
+male,no,no,no,8,yes,no,dsl,no,no,no,no,no,no,monthly,no,mailed check,43.55,335.4
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.8,19.8
+male,no,yes,yes,52,no,no phone service,dsl,no,yes,yes,yes,yes,no,two year,no,mailed check,50.2,2554.0
+female,no,yes,no,72,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,mailed check,26.0,1776.0
+male,yes,no,no,16,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,electronic check,69.65,1043.3
+male,no,no,no,18,yes,yes,fiber optic,no,no,yes,no,yes,no,one year,yes,credit card,89.6,1633.0
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.25,20.25
+male,no,yes,yes,72,yes,no,dsl,no,yes,yes,no,yes,yes,two year,yes,bank transfer,75.4,5480.25
+female,no,yes,no,49,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,credit card,20.7,1032.05
+male,no,no,no,1,yes,no,dsl,no,no,no,no,no,no,monthly,no,electronic check,44.0,44.0
+female,no,yes,no,51,yes,no,fiber optic,yes,yes,yes,no,yes,no,one year,yes,electronic check,93.5,4619.55
+male,yes,yes,no,72,yes,yes,fiber optic,no,yes,no,no,yes,yes,one year,yes,credit card,97.25,7133.1
+male,yes,yes,no,72,yes,yes,dsl,no,yes,yes,yes,yes,no,two year,no,credit card,77.35,5396.25
+female,no,no,no,16,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,19.05,326.65
+male,no,yes,yes,16,yes,yes,dsl,yes,yes,no,yes,yes,yes,monthly,no,electronic check,84.9,1398.25
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,bank transfer,19.65,19.65
+male,no,yes,no,10,yes,yes,fiber optic,no,no,no,no,yes,no,monthly,yes,electronic check,85.6,813.85
+female,no,yes,no,57,yes,yes,fiber optic,no,no,yes,no,yes,yes,one year,yes,credit card,100.75,5985.0
+male,no,yes,yes,32,yes,no,fiber optic,yes,yes,no,no,no,yes,one year,yes,electronic check,90.8,3023.85
+female,no,no,no,72,yes,yes,fiber optic,yes,yes,yes,no,yes,no,two year,yes,bank transfer,101.3,7261.25
+female,yes,yes,no,58,yes,yes,fiber optic,no,yes,no,no,yes,yes,one year,yes,bank transfer,97.8,5458.8
+female,no,no,no,23,yes,yes,dsl,no,no,no,yes,yes,yes,one year,yes,mailed check,73.75,1756.6
+male,yes,no,no,25,yes,yes,fiber optic,no,yes,no,no,yes,no,monthly,yes,electronic check,89.5,2196.15
+male,no,yes,yes,32,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,credit card,19.45,674.55
+female,no,no,no,69,yes,yes,fiber optic,no,no,yes,yes,yes,yes,two year,no,electronic check,104.0,7028.5
+female,no,yes,yes,72,yes,no,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,credit card,109.5,7854.9
+male,no,no,no,50,no,no phone service,dsl,yes,no,no,yes,no,no,one year,yes,mailed check,35.4,1748.9
+male,no,yes,yes,28,yes,yes,fiber optic,yes,yes,no,no,yes,yes,one year,no,electronic check,106.1,2847.4
+female,no,yes,no,10,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.1,184.4
+male,no,yes,yes,58,yes,yes,fiber optic,no,yes,no,yes,yes,no,one year,yes,credit card,94.7,5430.35
+male,yes,yes,no,7,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,75.4,533.05
+male,no,no,yes,4,yes,no,dsl,yes,no,no,no,no,no,monthly,no,electronic check,49.35,219.65
+female,no,yes,yes,34,yes,no,dsl,yes,yes,yes,no,no,no,one year,yes,mailed check,60.8,2042.05
+female,no,yes,yes,70,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,credit card,115.15,8250.0
+male,yes,yes,yes,71,yes,yes,dsl,no,yes,yes,yes,no,yes,one year,yes,bank transfer,72.9,5139.65
+male,no,no,no,21,yes,yes,fiber optic,yes,no,yes,no,yes,yes,monthly,no,mailed check,103.85,2215.0
+female,no,no,no,56,yes,no,dsl,yes,no,yes,yes,no,no,one year,yes,credit card,60.25,3282.75
+male,no,no,yes,71,yes,no,dsl,yes,yes,yes,yes,yes,no,two year,yes,credit card,76.9,5522.7
+female,no,yes,yes,14,yes,yes,fiber optic,no,no,yes,no,no,yes,monthly,yes,electronic check,87.25,1258.6
+male,no,yes,yes,41,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,bank transfer,19.5,798.2
+female,no,no,no,3,yes,yes,fiber optic,no,no,no,no,no,no,monthly,no,bank transfer,74.4,215.8
+female,no,yes,yes,58,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,20.5,1191.4
+female,no,yes,yes,72,no,no phone service,dsl,yes,yes,yes,yes,yes,yes,two year,no,bank transfer,65.7,4575.35
+female,no,no,no,13,yes,yes,fiber optic,no,yes,yes,yes,no,no,monthly,no,electronic check,89.4,1132.35
+male,no,yes,yes,43,yes,no,dsl,yes,no,yes,yes,yes,yes,two year,yes,credit card,79.15,3566.6
+male,no,no,no,41,no,no phone service,dsl,no,no,yes,no,yes,yes,one year,yes,electronic check,51.35,2075.1
+female,no,no,no,2,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,bank transfer,70.0,153.05
+female,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,credit card,20.3,20.3
+male,no,no,no,4,yes,no,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,79.9,324.3
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,19.9,19.9
+male,no,yes,no,72,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,credit card,114.1,8086.4
+female,no,yes,yes,69,yes,yes,dsl,yes,no,yes,yes,no,no,two year,yes,credit card,64.15,4254.1
+male,no,yes,yes,27,no,no phone service,dsl,no,yes,yes,no,no,yes,one year,yes,credit card,45.85,1246.4
+female,no,no,yes,14,yes,no,dsl,no,no,yes,no,yes,no,monthly,yes,credit card,59.8,824.85
+male,no,no,no,19,yes,no,dsl,no,no,no,no,no,no,monthly,yes,bank transfer,45.0,865.85
+female,no,yes,no,18,yes,no,fiber optic,no,no,yes,no,yes,yes,monthly,yes,credit card,95.95,1745.5
+male,no,yes,yes,5,yes,no,fiber optic,yes,no,yes,no,no,yes,monthly,yes,mailed check,90.35,434.5
+male,no,yes,yes,28,yes,no,fiber optic,no,yes,yes,no,yes,yes,one year,no,bank transfer,100.35,2799.0
+female,no,no,no,30,yes,no,dsl,yes,yes,yes,yes,yes,no,one year,no,credit card,74.65,2308.6
+female,yes,no,no,71,yes,yes,fiber optic,no,no,yes,no,yes,yes,two year,no,bank transfer,104.05,7413.55
+male,no,no,no,1,yes,no,dsl,yes,no,no,yes,no,no,monthly,yes,electronic check,53.95,53.95
+male,no,yes,yes,71,yes,yes,fiber optic,yes,no,no,no,yes,yes,two year,yes,electronic check,97.2,6910.3
+female,no,yes,yes,32,yes,yes,dsl,no,yes,yes,no,no,no,monthly,no,bank transfer,62.45,2045.55
+female,yes,no,no,70,yes,yes,dsl,no,yes,yes,yes,yes,no,two year,yes,bank transfer,75.5,5212.65
+male,no,no,no,1,yes,no,dsl,no,no,no,no,no,yes,monthly,yes,electronic check,55.25,55.25
+male,no,yes,yes,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,71.0,71.0
+female,yes,no,no,4,yes,yes,dsl,no,no,no,no,no,no,monthly,no,mailed check,48.75,179.85
+male,yes,yes,no,43,yes,yes,fiber optic,no,yes,no,yes,yes,no,monthly,yes,electronic check,94.3,3953.15
+male,no,yes,no,72,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,no,credit card,92.3,6719.9
+male,yes,yes,yes,72,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,bank transfer,114.95,8196.4
+male,yes,yes,no,4,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,mailed check,74.4,306.6
+female,no,no,no,24,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,bank transfer,24.6,605.25
+male,yes,yes,no,1,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,95.1,95.1
+female,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,electronic check,18.85,18.85
+male,yes,no,no,14,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,95.6,1273.3
+male,yes,yes,no,36,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,84.1,3021.6
+male,no,yes,yes,40,yes,yes,fiber optic,no,no,yes,no,no,no,monthly,yes,electronic check,81.2,3292.3
+male,yes,no,no,67,yes,no,fiber optic,yes,yes,no,yes,yes,yes,two year,yes,electronic check,105.05,7171.7
+male,no,yes,yes,69,yes,no,fiber optic,no,yes,no,yes,yes,no,two year,yes,mailed check,92.15,6480.9
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.6,20.6
+female,no,no,yes,10,no,no phone service,dsl,yes,yes,no,yes,no,no,one year,no,mailed check,40.25,411.45
+male,no,yes,yes,55,yes,no,dsl,yes,yes,no,yes,no,no,two year,no,bank transfer,57.55,3046.4
+male,no,yes,yes,68,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,electronic check,113.15,7856.0
+male,yes,yes,yes,66,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,credit card,99.5,6822.15
+female,no,no,no,7,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,mailed check,69.9,497.3
+female,no,yes,yes,10,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.15,220.8
+male,no,no,no,1,no,no phone service,dsl,no,no,no,yes,no,no,monthly,no,mailed check,29.15,29.15
+male,no,yes,yes,55,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,19.35,1153.25
+male,no,yes,no,45,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,bank transfer,107.75,4882.8
+female,no,yes,no,10,yes,no,dsl,no,no,yes,no,yes,yes,monthly,yes,credit card,67.8,653.15
+female,no,yes,no,69,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,electronic check,116.0,8182.85
+female,yes,no,no,1,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,85.05,85.05
+female,no,no,no,33,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,25.7,826.1
+female,no,no,no,45,yes,no,dsl,yes,no,yes,yes,yes,yes,two year,no,bank transfer,81.65,3618.7
+female,no,no,no,1,yes,no,dsl,no,no,no,no,no,no,monthly,no,mailed check,44.75,44.75
+male,no,no,no,31,yes,yes,dsl,no,yes,no,yes,yes,no,monthly,yes,electronic check,71.05,2168.15
+male,no,yes,yes,50,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,mailed check,20.35,938.95
+female,no,no,no,57,yes,yes,fiber optic,yes,yes,no,yes,no,no,monthly,yes,bank transfer,87.55,4884.85
+male,no,no,no,1,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,mailed check,74.25,74.25
+female,no,no,no,2,yes,no,fiber optic,no,no,yes,no,no,no,monthly,yes,electronic check,75.8,160.75
+male,no,no,no,3,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,bank transfer,105.35,323.25
+male,yes,yes,no,67,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,yes,credit card,94.65,6079.0
+female,yes,no,no,42,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,bank transfer,104.75,4323.45
+female,no,yes,no,70,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,bank transfer,26.0,2006.95
+male,no,yes,no,71,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,electronic check,20.85,1539.75
+male,no,no,no,9,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,75.85,724.65
+male,no,yes,yes,72,no,no phone service,dsl,yes,yes,yes,yes,no,no,two year,no,credit card,45.25,3139.8
+male,no,yes,yes,53,yes,yes,fiber optic,no,yes,yes,no,yes,yes,one year,yes,electronic check,105.25,5576.3
+female,yes,no,no,19,yes,no,fiber optic,yes,yes,no,yes,yes,yes,monthly,yes,mailed check,105.0,2007.25
+female,no,no,no,9,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,no,electronic check,94.4,857.25
+male,no,yes,yes,72,yes,no,fiber optic,yes,yes,no,yes,yes,yes,two year,no,bank transfer,105.5,7611.55
+male,no,yes,yes,20,no,no phone service,dsl,yes,no,yes,yes,no,no,two year,yes,credit card,39.4,825.4
+female,no,yes,yes,43,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.0,817.95
+female,no,no,no,50,yes,yes,dsl,no,yes,no,yes,yes,yes,two year,yes,mailed check,79.6,4024.2
+female,no,yes,no,55,yes,yes,fiber optic,yes,no,no,no,yes,no,monthly,yes,bank transfer,89.8,4959.6
+male,no,yes,no,2,yes,no,fiber optic,no,no,no,yes,yes,yes,monthly,yes,electronic check,94.2,167.5
+female,no,yes,yes,9,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.35,191.1
+male,no,no,no,10,no,no phone service,dsl,no,no,no,no,no,yes,monthly,yes,mailed check,33.9,298.45
+female,no,no,no,71,yes,no,dsl,yes,yes,yes,yes,yes,no,two year,no,credit card,77.35,5550.1
+female,no,yes,no,32,yes,no,fiber optic,no,yes,no,no,no,yes,monthly,no,bank transfer,84.15,2585.95
+male,yes,yes,no,3,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,yes,electronic check,105.9,334.65
+male,yes,yes,no,16,yes,no,fiber optic,no,yes,no,no,no,no,monthly,yes,credit card,74.3,1178.25
+male,no,no,no,25,yes,no,fiber optic,no,no,no,no,no,no,monthly,no,electronic check,69.75,1729.35
+male,no,no,no,38,yes,no,fiber optic,no,no,no,no,no,no,one year,yes,bank transfer,70.45,2597.6
+female,no,no,no,40,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.15,804.85
+female,no,yes,yes,61,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,mailed check,24.2,1445.2
+female,no,yes,yes,25,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.05,520.1
+female,no,no,yes,48,yes,no,fiber optic,no,yes,yes,yes,yes,no,two year,yes,mailed check,95.5,4627.85
+female,no,no,no,3,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,bank transfer,69.55,222.3
+female,no,no,no,63,yes,yes,fiber optic,yes,yes,yes,no,yes,yes,monthly,no,credit card,108.25,6780.1
+female,yes,no,no,37,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,76.25,2841.55
+male,no,no,no,1,yes,no,dsl,yes,no,no,no,no,no,monthly,yes,credit card,49.8,49.8
+male,no,yes,yes,17,yes,no,fiber optic,no,no,no,no,yes,no,monthly,no,electronic check,80.85,1400.85
+male,no,no,no,3,yes,no,dsl,no,no,no,yes,yes,yes,monthly,yes,electronic check,69.35,191.35
+female,no,yes,no,21,yes,no,fiber optic,no,no,no,yes,yes,no,monthly,yes,electronic check,86.05,1818.9
+female,no,yes,yes,67,no,no phone service,dsl,yes,yes,no,no,no,no,two year,no,bank transfer,36.15,2434.45
+female,no,yes,yes,34,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,bank transfer,20.1,682.1
+male,no,no,no,18,yes,yes,fiber optic,no,no,yes,no,no,yes,monthly,yes,credit card,90.7,1597.25
+male,no,yes,yes,72,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,no,credit card,88.7,6501.35
+male,no,yes,yes,18,yes,no,fiber optic,no,no,yes,no,yes,yes,monthly,no,mailed check,95.15,1779.95
+male,no,no,no,3,yes,yes,fiber optic,no,no,no,no,no,no,monthly,no,mailed check,75.0,209.1
+female,no,no,no,1,yes,yes,dsl,no,no,no,no,no,no,monthly,yes,bank transfer,49.95,49.95
+male,no,no,no,10,yes,yes,dsl,no,no,no,no,yes,yes,monthly,yes,credit card,72.15,794.25
+female,no,no,no,10,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,20.9,247.0
+female,no,yes,yes,29,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,electronic check,20.0,540.05
+female,yes,yes,no,34,yes,yes,fiber optic,no,yes,yes,no,no,yes,monthly,yes,electronic check,94.25,3217.55
+male,yes,yes,no,7,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,electronic check,101.95,700.85
+male,no,yes,yes,69,yes,yes,dsl,yes,no,yes,yes,yes,yes,two year,no,bank transfer,86.9,6194.1
+female,no,no,no,36,yes,yes,dsl,yes,no,no,no,no,no,one year,no,mailed check,54.45,1893.5
+male,no,yes,no,72,yes,yes,dsl,no,yes,yes,yes,yes,yes,two year,no,bank transfer,85.95,6151.9
+female,no,no,no,42,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,mailed check,20.65,958.1
+male,no,no,no,42,yes,yes,fiber optic,yes,yes,yes,no,no,yes,one year,yes,electronic check,99.0,4298.45
+male,no,no,no,67,no,no phone service,dsl,yes,no,no,yes,yes,no,two year,no,electronic check,43.9,3097.2
+female,yes,no,no,21,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,yes,bank transfer,95.4,2025.1
+female,no,no,no,23,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,93.5,2341.55
+female,no,no,no,15,yes,no,fiber optic,yes,no,no,no,yes,no,monthly,no,electronic check,86.2,1270.2
+female,yes,yes,no,34,yes,no,dsl,no,no,yes,yes,yes,no,one year,no,bank transfer,64.2,2106.3
+male,yes,yes,no,7,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,electronic check,99.25,665.45
+male,no,no,yes,9,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,20.4,184.1
+female,no,yes,no,34,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,electronic check,24.7,780.2
+male,no,no,no,1,no,no phone service,dsl,no,no,no,no,no,yes,monthly,yes,electronic check,35.55,35.55
+female,no,no,no,25,yes,yes,fiber optic,no,yes,yes,yes,yes,yes,two year,no,electronic check,108.9,2809.05
+female,no,yes,no,72,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,bank transfer,115.5,8312.75
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,electronic check,20.55,20.55
+female,no,yes,no,60,yes,yes,fiber optic,no,yes,no,no,yes,yes,monthly,yes,electronic check,99.8,5985.75
+male,no,yes,no,43,yes,no,fiber optic,yes,no,yes,yes,no,no,one year,yes,bank transfer,84.25,3539.25
+male,no,no,no,3,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,21.2,52.05
+male,yes,yes,no,72,yes,yes,dsl,yes,yes,yes,no,yes,yes,two year,yes,credit card,84.1,5981.65
+male,no,no,no,2,yes,no,dsl,no,no,no,no,no,no,monthly,no,electronic check,45.35,89.5
+male,no,no,no,10,yes,no,fiber optic,yes,no,yes,no,yes,yes,one year,yes,electronic check,98.9,1064.95
+male,no,no,no,7,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,bank transfer,98.05,713.0
+female,no,yes,no,33,yes,no,dsl,no,no,no,yes,no,no,one year,yes,mailed check,51.45,1758.9
+male,no,no,no,31,yes,yes,fiber optic,no,yes,no,no,no,no,monthly,yes,electronic check,81.15,2640.55
+male,yes,no,no,38,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,no,electronic check,94.75,3653.0
+female,no,no,no,24,yes,yes,fiber optic,yes,no,no,yes,no,no,monthly,yes,electronic check,84.35,1938.05
+female,no,no,no,28,yes,no,dsl,no,no,yes,no,yes,no,monthly,yes,bank transfer,59.55,1646.45
+male,no,yes,yes,72,no,no phone service,dsl,yes,yes,yes,no,no,no,two year,no,credit card,38.5,2763.0
+female,no,yes,no,20,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,bank transfer,19.25,375.25
+male,no,no,no,60,yes,no,dsl,yes,no,yes,yes,yes,yes,one year,no,mailed check,79.0,4801.1
+female,yes,no,no,4,yes,yes,fiber optic,no,no,yes,no,yes,no,monthly,yes,electronic check,89.2,346.2
+female,no,yes,no,46,yes,yes,dsl,yes,no,no,no,no,no,monthly,no,bank transfer,55.0,2473.95
+male,no,yes,yes,72,yes,yes,dsl,yes,yes,yes,yes,yes,no,two year,no,bank transfer,82.3,5815.15
+female,yes,no,no,41,yes,yes,fiber optic,yes,yes,yes,no,yes,yes,monthly,yes,electronic check,113.2,4689.5
+male,yes,yes,no,65,yes,yes,fiber optic,yes,no,no,no,yes,yes,one year,yes,electronic check,100.75,6674.65
+male,no,yes,yes,43,no,no phone service,dsl,no,yes,no,no,no,no,monthly,no,credit card,29.3,1224.05
+female,no,no,yes,21,yes,no,dsl,yes,no,yes,no,no,yes,one year,no,mailed check,64.85,1336.8
+male,no,yes,yes,54,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,20.4,1090.6
+female,yes,yes,no,61,yes,yes,fiber optic,no,yes,yes,no,yes,yes,one year,yes,credit card,104.4,6405.0
+male,no,no,no,20,no,no phone service,dsl,yes,yes,yes,yes,yes,no,monthly,yes,credit card,55.0,1165.55
+male,no,no,no,69,yes,yes,fiber optic,no,yes,no,yes,yes,yes,one year,yes,bank transfer,105.2,7386.05
+male,yes,no,no,1,yes,no,dsl,no,no,no,no,no,no,monthly,no,electronic check,45.2,45.2
+male,yes,yes,no,33,yes,no,fiber optic,yes,yes,no,yes,no,yes,one year,yes,electronic check,93.55,3055.5
+male,no,no,yes,19,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,20.85,467.5
+male,no,no,no,2,yes,no,fiber optic,no,no,no,no,yes,no,monthly,no,electronic check,79.0,143.65
+female,no,yes,yes,13,yes,no,dsl,yes,no,yes,no,no,yes,monthly,yes,mailed check,63.15,816.8
+male,no,no,no,1,yes,no,dsl,no,no,no,no,no,no,monthly,yes,mailed check,45.8,45.8
+female,no,yes,yes,55,yes,no,dsl,yes,yes,no,no,no,no,monthly,no,electronic check,55.7,3131.8
+male,no,no,no,22,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,95.1,2162.6
+male,yes,yes,no,27,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,75.5,1893.95
+male,yes,yes,no,13,yes,no,fiber optic,no,yes,no,yes,no,yes,monthly,yes,bank transfer,89.05,1169.35
+male,no,yes,yes,26,yes,no,dsl,no,no,yes,no,no,no,one year,no,mailed check,50.35,1285.8
+male,no,yes,yes,35,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,20.1,655.3
+female,yes,no,no,56,yes,yes,fiber optic,no,yes,yes,no,yes,yes,monthly,no,electronic check,104.75,5841.35
+male,no,no,no,1,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,95.45,95.45
+male,yes,yes,no,1,yes,yes,fiber optic,no,no,no,no,no,no,monthly,no,electronic check,74.3,74.3
+male,no,no,no,23,yes,yes,fiber optic,no,no,no,yes,yes,no,monthly,yes,electronic check,90.6,1943.2
+female,no,no,no,7,yes,yes,fiber optic,no,no,no,no,no,no,monthly,no,mailed check,75.45,480.75
+male,no,yes,no,22,yes,no,fiber optic,yes,yes,no,yes,yes,yes,monthly,yes,electronic check,104.6,2180.55
+male,no,yes,no,56,yes,yes,dsl,no,yes,yes,no,no,no,two year,no,credit card,59.5,3389.25
+male,no,yes,no,71,yes,no,dsl,yes,no,yes,yes,yes,yes,two year,yes,electronic check,82.55,5832.65
+male,no,yes,yes,59,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.85,1188.25
+female,no,no,no,18,yes,no,fiber optic,yes,no,no,no,yes,yes,monthly,yes,electronic check,96.05,1740.7
+male,no,yes,no,60,yes,no,dsl,yes,yes,no,yes,no,no,two year,yes,mailed check,61.35,3766.2
+female,no,no,no,8,yes,no,dsl,no,no,no,no,no,no,monthly,no,mailed check,44.45,369.3
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,credit card,19.75,19.75
+female,yes,yes,no,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,mailed check,70.45,70.45
+female,no,yes,yes,28,yes,no,fiber optic,yes,no,no,no,no,yes,one year,yes,bank transfer,82.85,2320.8
+male,no,no,no,18,yes,yes,fiber optic,no,no,no,no,no,no,monthly,no,mailed check,74.15,1387.0
+male,no,no,no,24,yes,no,fiber optic,no,no,no,no,yes,yes,monthly,yes,electronic check,90.35,2238.5
+female,no,yes,yes,68,no,no phone service,dsl,no,yes,yes,yes,yes,yes,two year,no,credit card,60.3,4109.0
+male,no,yes,yes,71,yes,no,fiber optic,yes,yes,yes,no,yes,yes,one year,yes,bank transfer,104.65,7288.4
+male,no,yes,yes,64,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,bank transfer,19.7,1274.05
+female,no,yes,no,72,yes,yes,fiber optic,yes,yes,yes,no,yes,yes,two year,yes,electronic check,110.75,7751.7
+female,yes,no,no,69,yes,yes,fiber optic,yes,no,yes,yes,yes,yes,two year,no,credit card,110.25,7467.55
+female,no,no,no,67,no,no phone service,dsl,no,no,yes,yes,yes,yes,monthly,yes,credit card,53.4,3579.15
+female,yes,no,no,20,yes,no,fiber optic,no,no,no,no,yes,no,monthly,no,bank transfer,80.7,1614.2
+female,no,yes,yes,25,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,mailed check,18.7,383.65
+female,no,no,no,50,yes,no,fiber optic,no,no,yes,yes,no,yes,two year,yes,bank transfer,89.7,4304.5
+female,no,yes,yes,6,yes,yes,dsl,no,no,no,no,no,no,monthly,yes,credit card,48.95,273.25
+female,no,no,yes,2,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,electronic check,19.6,35.85
+female,no,no,no,18,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.1,407.05
+female,yes,no,no,2,yes,yes,dsl,no,yes,no,no,no,no,monthly,yes,credit card,56.55,118.25
+male,no,no,no,3,no,no phone service,dsl,no,no,yes,no,yes,no,monthly,yes,mailed check,40.15,130.75
+female,no,no,yes,9,yes,no,dsl,no,no,no,yes,yes,yes,monthly,yes,credit card,69.4,571.45
+male,no,no,no,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,69.9,69.9
+female,no,no,no,70,yes,yes,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,bank transfer,113.65,7939.25
+female,no,no,no,46,yes,yes,fiber optic,no,no,no,no,yes,yes,monthly,no,bank transfer,96.05,4399.5
+female,no,no,no,15,yes,yes,dsl,no,no,no,no,no,no,monthly,yes,mailed check,48.8,720.1
+female,no,no,no,53,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,19.85,1049.6
+female,no,no,no,1,yes,no,dsl,no,no,no,no,no,yes,monthly,yes,electronic check,55.4,55.4
+female,no,no,no,29,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,credit card,19.35,601.6
+female,no,no,no,1,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,77.15,77.15
+male,no,no,no,69,no,no phone service,dsl,yes,yes,no,yes,yes,yes,two year,yes,bank transfer,60.05,4176.7
+male,yes,yes,no,63,no,no phone service,dsl,yes,no,no,yes,no,no,one year,no,bank transfer,36.1,2298.9
+male,yes,no,no,51,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,bank transfer,25.0,1260.7
+male,no,yes,no,64,yes,no,fiber optic,yes,no,no,no,no,no,monthly,yes,mailed check,73.55,4764.0
+female,no,yes,yes,52,yes,no,fiber optic,yes,no,yes,yes,no,no,monthly,yes,bank transfer,84.05,4326.8
+male,no,yes,yes,70,no,no phone service,dsl,yes,no,yes,yes,yes,yes,two year,no,bank transfer,59.5,4144.8
+male,no,yes,yes,9,yes,no,dsl,no,yes,no,yes,no,no,monthly,no,mailed check,54.8,452.8
+female,no,no,no,3,yes,no,fiber optic,no,yes,no,no,yes,no,monthly,no,electronic check,83.75,247.25
+male,no,yes,no,70,yes,yes,dsl,yes,no,yes,yes,no,yes,two year,yes,credit card,74.8,5315.8
+male,no,no,no,21,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,84.1,1737.45
+female,yes,no,no,5,yes,no,fiber optic,no,no,yes,no,no,no,monthly,yes,credit card,75.55,349.65
+male,no,no,no,20,yes,no,fiber optic,yes,yes,yes,yes,yes,yes,monthly,yes,bank transfer,108.2,2203.7
+female,yes,yes,no,72,yes,yes,fiber optic,yes,no,yes,yes,yes,yes,two year,yes,mailed check,109.75,8075.35
+male,no,yes,yes,72,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,20.3,1401.15
+female,yes,no,no,2,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,70.65,142.35
+female,no,yes,yes,23,yes,no,fiber optic,no,no,yes,no,no,no,monthly,yes,credit card,75.3,1702.9
+female,no,no,no,4,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,bank transfer,20.95,85.5
+male,no,no,no,32,yes,yes,fiber optic,no,yes,no,no,no,no,monthly,yes,bank transfer,80.35,2596.15
+female,no,no,no,36,yes,yes,dsl,yes,no,yes,yes,yes,yes,one year,yes,credit card,89.65,3348.1
+male,no,no,no,24,yes,no,dsl,no,yes,no,no,no,no,monthly,yes,mailed check,49.7,1218.25
+male,no,no,no,6,yes,no,dsl,no,no,no,yes,no,no,monthly,yes,credit card,49.5,312.7
+male,no,yes,yes,23,yes,yes,dsl,no,yes,no,yes,no,no,two year,no,mailed check,59.7,1414.2
+female,no,yes,yes,48,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,20.65,1057.0
+female,no,no,no,28,yes,yes,dsl,no,no,no,yes,no,no,monthly,yes,credit card,54.9,1505.15
+male,yes,no,no,52,no,no phone service,dsl,no,yes,no,no,yes,yes,monthly,yes,electronic check,49.15,2550.9
+female,no,no,no,3,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,74.95,212.4
+female,no,no,no,2,yes,no,fiber optic,no,no,no,no,no,yes,monthly,no,electronic check,80.55,184.1
+male,no,no,no,4,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,19.95,68.2
+male,no,no,no,5,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,69.7,316.9
+female,yes,no,no,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,69.6,69.6
+male,no,yes,yes,66,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,mailed check,19.75,1344.5
+female,no,yes,no,52,yes,yes,fiber optic,no,yes,no,yes,yes,yes,monthly,yes,credit card,102.7,5138.1
+female,no,no,no,1,no,no phone service,dsl,no,no,no,no,no,no,monthly,no,electronic check,24.6,24.6
+male,no,no,no,35,yes,no,fiber optic,yes,no,no,yes,no,yes,one year,yes,electronic check,89.2,3251.3
+male,no,yes,no,3,yes,no,dsl,no,no,yes,yes,no,no,monthly,yes,mailed check,55.8,154.55
+female,yes,no,no,66,yes,yes,fiber optic,no,no,yes,yes,yes,yes,one year,yes,credit card,102.85,6976.75
+female,no,no,no,59,yes,yes,dsl,yes,no,no,yes,no,yes,one year,no,bank transfer,68.7,4070.95
+male,no,yes,yes,52,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,25.75,1345.85
+female,no,no,no,8,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,73.5,632.2
+female,no,no,no,5,yes,yes,dsl,yes,no,no,no,no,no,monthly,yes,electronic check,53.8,283.95
+male,no,no,no,4,no,no phone service,dsl,no,no,no,no,yes,yes,monthly,yes,electronic check,44.55,174.3
+male,no,yes,yes,50,yes,yes,dsl,yes,no,no,yes,yes,no,two year,yes,credit card,70.5,3486.65
+male,no,yes,yes,62,yes,no,fiber optic,yes,yes,yes,yes,yes,yes,two year,no,mailed check,108.15,6825.65
+female,no,no,no,61,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,bank transfer,19.45,1336.35
+male,no,yes,yes,55,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,no,bank transfer,85.5,4713.4
+male,no,no,no,5,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,credit card,20.05,95.55
+female,no,yes,yes,35,yes,no,dsl,yes,no,no,yes,no,no,one year,yes,bank transfer,54.95,1916.0
+male,no,no,yes,22,yes,yes,fiber optic,no,yes,no,no,yes,no,monthly,yes,credit card,89.1,1949.4
+male,no,no,no,57,no,no phone service,dsl,no,no,yes,yes,yes,yes,two year,no,credit card,53.35,3090.05
+male,yes,yes,no,57,yes,yes,fiber optic,no,yes,yes,no,no,yes,monthly,yes,bank transfer,95.25,5427.05
+female,no,yes,no,64,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,19.45,1225.65
+female,no,no,no,26,yes,no,fiber optic,yes,no,yes,yes,no,yes,one year,yes,bank transfer,95.85,2475.35
+female,yes,yes,no,39,yes,no,fiber optic,yes,yes,no,no,yes,yes,one year,no,mailed check,99.1,3877.95
+female,no,yes,no,19,yes,no,dsl,no,yes,no,no,no,yes,monthly,yes,mailed check,59.8,1130.85
+male,no,yes,no,31,yes,yes,fiber optic,no,yes,yes,no,yes,no,monthly,no,electronic check,93.8,3019.5
+female,no,yes,yes,6,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.85,119.3
+male,no,no,no,52,yes,yes,fiber optic,no,no,yes,no,no,yes,two year,yes,credit card,89.45,4577.75
+male,no,yes,yes,53,yes,yes,dsl,yes,no,yes,yes,yes,yes,monthly,no,electronic check,85.7,4616.1
+female,yes,no,no,56,yes,yes,fiber optic,no,yes,yes,yes,yes,yes,one year,yes,electronic check,111.95,6418.9
+male,no,yes,yes,56,yes,yes,dsl,yes,yes,no,yes,no,yes,two year,yes,credit card,75.85,4261.2
+male,no,yes,yes,49,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,electronic check,99.8,4872.45
+male,no,no,yes,39,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,25.0,1004.35
+female,no,yes,yes,61,yes,yes,fiber optic,no,yes,no,no,yes,yes,monthly,yes,electronic check,99.15,6010.05
+female,no,yes,no,43,no,no phone service,dsl,yes,no,no,yes,no,no,monthly,no,bank transfer,34.0,1505.35
+female,no,no,no,5,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,electronic check,19.55,99.6
+female,no,no,no,11,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,bank transfer,20.3,246.3
+male,no,no,no,2,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,24.85,62.0
+female,no,no,no,13,yes,yes,fiber optic,yes,yes,no,no,yes,no,monthly,yes,electronic check,96.65,1244.5
+male,no,yes,yes,72,yes,yes,dsl,yes,yes,yes,yes,no,yes,two year,no,credit card,81.0,5750.0
+female,yes,no,no,46,yes,yes,dsl,no,no,yes,yes,no,yes,one year,yes,credit card,69.1,3255.35
+male,no,yes,no,71,yes,yes,fiber optic,yes,no,yes,yes,yes,yes,two year,yes,credit card,108.55,7616.0
+female,no,no,no,36,yes,no,fiber optic,no,no,yes,yes,no,yes,monthly,yes,electronic check,87.55,3078.1
+male,no,yes,no,64,yes,yes,fiber optic,yes,no,yes,yes,yes,yes,one year,yes,mailed check,108.5,6880.85
+female,no,no,no,1,yes,no,fiber optic,yes,no,no,no,no,no,monthly,no,mailed check,75.3,75.3
+female,no,yes,no,15,yes,no,fiber optic,no,no,yes,no,yes,no,monthly,yes,electronic check,84.3,1308.4
+male,no,yes,no,36,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.0,666.75
+female,no,yes,yes,6,no,no phone service,dsl,no,yes,yes,yes,no,no,two year,no,mailed check,40.55,217.5
+male,no,yes,no,30,yes,no,dsl,no,no,yes,no,no,no,monthly,yes,mailed check,50.0,1474.9
+male,no,no,no,1,yes,yes,dsl,no,no,no,no,yes,no,monthly,yes,electronic check,59.85,59.85
+male,no,no,no,13,yes,no,fiber optic,no,no,no,no,no,yes,monthly,yes,electronic check,80.85,1008.7
+male,no,yes,yes,61,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,mailed check,20.4,1226.45
+male,no,yes,yes,72,yes,yes,fiber optic,yes,yes,no,yes,yes,yes,two year,yes,credit card,107.7,7919.8
+female,no,yes,yes,67,yes,yes,dsl,yes,yes,no,yes,yes,no,two year,no,credit card,74.0,4868.4
+female,no,no,no,34,yes,no,dsl,yes,no,yes,yes,yes,yes,one year,yes,bank transfer,79.95,2727.3
+female,no,yes,no,72,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,credit card,20.5,1502.25
+male,no,yes,no,46,yes,no,dsl,yes,yes,yes,yes,no,no,two year,no,mailed check,65.65,3047.15
+female,no,no,no,7,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,bank transfer,75.1,552.95
+female,yes,no,no,7,yes,no,fiber optic,yes,no,no,no,no,no,monthly,no,bank transfer,76.45,503.6
+male,no,yes,no,72,yes,yes,dsl,yes,yes,yes,yes,no,no,two year,yes,bank transfer,67.8,4804.65
+female,no,yes,yes,32,yes,no,fiber optic,no,yes,no,no,yes,no,monthly,yes,electronic check,86.1,2723.75
+male,no,no,no,39,yes,yes,dsl,no,no,no,yes,no,no,two year,yes,credit card,53.85,2200.7
+male,no,yes,yes,47,yes,no,fiber optic,yes,yes,yes,no,no,yes,one year,yes,electronic check,96.1,4391.45
+female,yes,yes,no,50,yes,yes,fiber optic,no,yes,yes,no,yes,no,monthly,yes,electronic check,95.05,4888.7
+male,no,yes,yes,58,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,yes,electronic check,19.55,1108.8
+female,no,no,no,41,yes,yes,fiber optic,yes,no,no,no,no,no,monthly,yes,credit card,81.3,3190.65
+female,yes,yes,no,4,yes,yes,fiber optic,no,no,no,no,yes,no,monthly,yes,electronic check,83.25,308.05
+female,no,yes,yes,32,yes,no,dsl,yes,yes,no,yes,no,no,monthly,no,bank transfer,61.4,1864.65
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,credit card,20.75,20.75
+male,no,no,no,19,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.65,358.15
+female,yes,yes,no,62,yes,yes,fiber optic,yes,no,yes,no,yes,yes,one year,yes,electronic check,104.85,6312.9
+female,no,no,no,1,yes,no,dsl,no,no,yes,yes,yes,yes,one year,no,credit card,74.1,74.1
+female,no,no,no,12,yes,yes,dsl,yes,no,yes,yes,no,no,monthly,yes,mailed check,61.65,713.75
+female,no,yes,no,48,no,no phone service,dsl,yes,no,yes,no,no,yes,monthly,yes,bank transfer,45.3,2145.0
+female,no,no,yes,3,yes,no,dsl,yes,no,no,yes,no,yes,monthly,yes,bank transfer,64.5,177.4
+female,no,yes,no,40,yes,yes,fiber optic,no,no,no,yes,no,no,monthly,yes,credit card,78.85,3126.85
+male,no,no,no,19,no,no phone service,dsl,no,no,no,no,no,no,monthly,yes,bank transfer,25.15,468.35
+female,no,no,no,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,70.25,70.25
+female,no,yes,yes,67,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,mailed check,24.9,1680.25
+female,no,yes,yes,16,yes,no,fiber optic,yes,no,yes,no,yes,yes,monthly,no,bank transfer,100.7,1522.7
+female,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,yes,mailed check,19.55,19.55
+female,no,no,yes,21,no,no phone service,dsl,yes,yes,yes,yes,yes,no,two year,no,mailed check,53.15,1183.2
+female,yes,yes,yes,29,no,no phone service,dsl,no,yes,yes,no,no,no,monthly,yes,mailed check,35.65,1025.15
+male,yes,yes,yes,20,yes,no,fiber optic,yes,no,yes,yes,no,yes,one year,no,credit card,94.3,1818.3
+female,no,yes,no,13,yes,yes,fiber optic,no,yes,yes,no,yes,no,monthly,no,electronic check,94.1,1215.6
+male,no,yes,yes,9,no,no phone service,dsl,no,yes,no,no,no,no,monthly,yes,electronic check,29.95,248.95
+male,no,yes,no,51,yes,no,dsl,yes,yes,yes,yes,yes,yes,two year,yes,credit card,83.25,4089.45
+male,no,yes,yes,60,yes,no,dsl,yes,yes,no,yes,yes,yes,monthly,yes,credit card,79.05,4663.4
+female,yes,no,no,20,yes,yes,fiber optic,yes,no,no,no,no,no,monthly,yes,electronic check,79.15,1520.9
+male,no,no,no,9,no,no phone service,dsl,no,no,no,no,yes,no,monthly,yes,credit card,34.7,296.1
+female,yes,yes,no,8,yes,yes,fiber optic,no,yes,no,no,no,no,monthly,yes,credit card,80.65,633.3
+male,no,yes,no,63,yes,yes,dsl,no,no,yes,yes,yes,yes,two year,no,credit card,79.8,5034.05
+female,no,yes,yes,10,yes,no,dsl,no,yes,yes,no,no,yes,one year,yes,mailed check,65.9,660.05
+female,no,no,no,3,yes,no,dsl,no,no,yes,no,yes,yes,one year,yes,electronic check,69.95,220.45
+male,no,yes,yes,44,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,one year,no,bank transfer,20.6,926.0
+male,no,yes,yes,8,yes,no,dsl,yes,no,no,no,no,no,monthly,yes,credit card,51.3,411.6
+male,no,yes,yes,61,yes,yes,fiber optic,yes,yes,no,no,yes,yes,one year,yes,electronic check,106.0,6547.7
+female,no,yes,yes,43,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,bank transfer,99.3,4209.95
+male,no,yes,no,43,yes,no,dsl,no,no,no,no,yes,no,one year,yes,mailed check,56.35,2391.15
+female,no,no,no,5,yes,yes,dsl,no,no,no,no,no,no,monthly,yes,mailed check,50.6,249.95
+male,no,yes,yes,29,yes,yes,dsl,yes,no,no,yes,yes,no,one year,no,bank transfer,69.05,1958.45
+male,yes,yes,no,54,yes,yes,fiber optic,no,no,yes,no,yes,yes,monthly,yes,credit card,99.05,5295.7
+male,no,yes,no,50,yes,yes,fiber optic,no,yes,no,no,yes,yes,one year,yes,electronic check,98.25,4858.7
+female,no,no,no,68,yes,yes,dsl,yes,yes,yes,yes,yes,yes,two year,yes,electronic check,88.15,6148.45
+female,yes,yes,yes,1,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,69.25,69.25
+female,no,yes,yes,72,yes,no,fiber optic,yes,yes,yes,yes,yes,yes,two year,yes,bank transfer,108.3,7679.65
+female,no,no,no,55,yes,yes,fiber optic,no,no,no,no,no,no,monthly,yes,electronic check,73.1,4144.9
+male,no,no,no,3,yes,no,fiber optic,no,no,no,no,no,no,monthly,yes,mailed check,70.3,220.4
+male,no,no,no,1,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,mailed check,19.05,19.05
+female,no,yes,yes,7,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,mailed check,19.85,144.15
+male,yes,no,no,9,yes,yes,fiber optic,no,no,no,no,no,yes,monthly,yes,credit card,84.4,732.5
+male,no,no,no,37,no,no phone service,dsl,no,no,no,no,yes,no,two year,no,credit card,35.8,1316.9
+male,no,yes,yes,62,yes,no,dsl,yes,yes,yes,yes,yes,yes,two year,no,electronic check,86.1,5215.25
+female,no,yes,yes,56,yes,no,dsl,yes,yes,yes,no,no,no,two year,yes,credit card,61.3,3346.8
+female,no,yes,yes,27,yes,yes,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,electronic check,24.5,761.95
+female,no,yes,yes,49,yes,no,dsl,yes,yes,yes,yes,yes,yes,one year,yes,mailed check,87.2,4345.0
+male,no,yes,yes,28,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,yes,credit card,20.3,487.95
+male,no,no,no,5,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,monthly,no,bank transfer,20.65,93.55
+female,no,no,no,56,yes,no,no,no internet service,no internet service,no internet service,no internet service,no internet service,no internet service,two year,no,bank transfer,19.7,1051.9
+female,no,yes,yes,72,yes,yes,dsl,yes,yes,yes,yes,no,no,two year,yes,bank transfer,70.45,5165.7
