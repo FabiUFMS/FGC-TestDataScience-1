@@ -1,0 +1,20 @@
+site_name: FGC-TestDataScience-1
+nav:
+  - Home: index.md
+  - Functions:
+      - config.py: Functions/config.md
+      - dataset.py: Functions/dataset.md
+      - features.py: Functions/features.md
+      - plots.py: Functions/plots.md
+      - train_predict.py: Functions/train_predict.md
+theme:
+  name: material  
+
+
+markdown_extensions:
+  - pymdownx.highlight:
+      linenums: false
+      anchor_linenums: false
+      use_pygments: true
+      auto_title: false   
+  - pymdownx.superfences

@@ -1,13 +1,14 @@
-## FGC-TestDataScience-1
-
 ## Telco Customer Churn Prediction
 
-This project is a **Data Science classification case** for *CLASIFICACIÓN* challenge.
-The goal is to **predict customer churn** (whether a customer will leave the company) based on their demographic characteristics and*contracted services.
+This project is a Data Science classification case.
+The goal is to predict customer churn (whether a customer will leave the company) based on their demographic characteristics and contracted services.
 
 The dataset used is the [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/).
 
+The selection of this dataset was due to the author's affinity with the topic, in addition to fulfilling the requirement of a classification case.
+
 ---
+
 
 ## ⚙️ Installation & Usage
 
@@ -16,6 +17,7 @@ The dataset used is the [Telco Customer Churn Dataset](https://www.kaggle.com/da
    ```bash
    git clone https://github.com/FabiUFMS/FGC-TestDataScience-1
    ```
+
 2. **Create the virtual environment:**
 	```powershell
 	python -m venv 0_venv_class
@@ -47,10 +49,7 @@ The dataset used is the [Telco Customer Churn Dataset](https://www.kaggle.com/da
 	```powershell
 	deactivate
 	```
-
-
 ---
-
 
 ## 📂 Project Structure
 
@@ -58,6 +57,7 @@ The dataset used is the [Telco Customer Churn Dataset](https://www.kaggle.com/da
 ├── data
 │   ├── processed    # Processed/cleaned data
 │   └── raw          # Original raw data
+├── docs             # MkDocs folder
 │
 ├── functions        # Isolated functions used across the project
 │
@@ -82,11 +82,8 @@ The dataset used is the [Telco Customer Churn Dataset](https://www.kaggle.com/da
 
 ---
 
-## 📂 MkDocs
 
-To run the MkDocs server, execute the following command in the root of the project:
+## Notes by the Author
+- All functions and notebooks are documented.
+- I apologize if I missed any comments in Portuguese. 
 
-```powershell
-cd docs
-mkdocs serve
-```
