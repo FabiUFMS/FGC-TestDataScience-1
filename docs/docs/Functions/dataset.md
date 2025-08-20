@@ -16,45 +16,45 @@ The process prepares the data for exploratory analysis and machine learning mode
 
 ## Cleaning Process Flowchart
 
-                                                        ┌─────────────────────┐
-                                                        │ Load Raw DataFrame  │
-                                                        └──────────┬──────────┘
-                                                                │
-                                                                ▼
-                                                        ┌─────────────────────┐
-                                                        │ Lowercase Columns   │
-                                                        │ & String Values     │
-                                                        └──────────┬──────────┘
-                                                                │
-                                                                ▼
-                                                        ┌─────────────────────┐
-                                                        │ Drop 'customerid'   │
-                                                        └──────────┬──────────┘
-                                                                │
-                                                                ▼
-                                                        ┌────────────────────────────┐
-                                                        │ Convert 'totalcharges'     │
-                                                        │ → numeric (fill 0 if NaN & │
-                                                        │ tenure == 0)               │
-                                                        └──────────┬─────────────────┘
-                                                                │
-                                                                ▼
-                                                        ┌─────────────────────┐
-                                                        │ Map 'seniorcitizen' │
-                                                        │ 0 → no, 1 → yes     │
-                                                        └──────────┬──────────┘
-                                                                │
-                                                                ▼
-                                                        ┌─────────────────────────┐
-                                                        │ Simplify 'paymentmethod'│
-                                                        │ & 'contract' values     │
-                                                        └──────────┬──────────────┘
-                                                                │
-                                                                ▼
-                                                        ┌─────────────────────┐
-                                                        │ Save Clean Dataset  │
-                                                        │ churn_clean_data.csv│
-                                                        └─────────────────────┘
+                                ┌───────────────────────┐
+                                │ Load Raw DataFrame  │
+                                └──────────┬────────────┘
+                                          │
+                                          ▼
+                                ┌───────────────────────┐
+                                │ Lowercase Columns   │
+                                │ & String Values     │
+                                └──────────┬────────────┘
+                                          │
+                                          ▼
+                                ┌───────────────────────┐
+                                │ Drop 'customerid'   │
+                                └──────────┬────────────┘
+                                          │
+                                          ▼
+                            ┌───────────────────────────────┐
+                            │ Convert 'totalcharges'     │
+                            │ → numeric (fill 0 if NaN & │
+                            │ tenure == 0)               │
+                            └──────────────┬────────────────┘
+                                          │
+                                          ▼
+                                ┌───────────────────────┐
+                                │ Map 'seniorcitizen' │
+                                │ 0 → no, 1 → yes     │
+                                └──────────┬────────────┘
+                                          │
+                                          ▼
+                             ┌────────────────────────────┐
+                             │ Simplify 'paymentmethod'│
+                             │ & 'contract' values     │
+                             └─────────────┬──────────────┘
+                                          │
+                                          ▼
+                                ┌───────────────────────┐
+                                │ Save Clean Dataset  │
+                                │ churn_clean_data.csv│
+                                └───────────────────────┘
 
 
 ---
